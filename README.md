@@ -15,8 +15,9 @@ Learn how to develop an Android app with java and android studio in this intensi
 ## PREREQUISITES
 All of the following is required from you, BEFORE your first class.
 
-* Your Own Laptop & Android Device
+* Your Own Laptop & Android Device with Internet Service.
 * Your Own Social Network Profiles Setup for Class work & to share with entire class.
+	* Your profile avatar and details must be complete before your first class.
 	* Facebook profile: http://www.FaceBook.com
 	* Twitter profile: http://www.Twitter.com
 	* LinkedIn Profile: http://www.linkedin.com
@@ -32,21 +33,20 @@ Dive into Android software development. Research, practice, testing and weekly p
 
 ## WEEKLY ANDROID HOMEWORK / PROJECTS INCLUDE:
 
-Basics:
-* Week 1: Intros, Schedules & Success Plan
-* Week 1: 1st App, Lifecycle, Dynamic UI
-* Week 2: Save Data, Interact, Permissions
-* Week 3: Content Sharing
-* Week 4: Multimedia, Graphics, Animation
-* Week 5: Connectivity, Cloud
-* Week 6: Location & Maps
-* Week 7: User Info & Sign-in
-* Week 8: Wearables, TV, Auto
-* Week 9: Google Services
-* Week 10: Best Practices
-* Week 11: Android Portfolio Polish
+* Week 1: Intros, Schedules, Success Plan, Project 1
+* Week 1: 1st App, Lifecycle, Dynamic UI, Project 2
+* Week 2: Save Data, Interact, Permissions, Project 3
+* Week 3: Content Sharing, Project 4
+* Week 4: Multimedia, Graphics, Animation, Project 5
+* Week 5: Connectivity, Cloud, Project 6
+* Week 6: Location & Maps, Project 7
+* Week 7: User Info & Sign-in, Project 8
+* Week 8: Wearables, TV, Auto, Project 9
+* Week 9: Google Services, Project 10
+* Week 10: Best Practices, Project 11
+* Week 11: Android Portfolio Polish, Project 12
 
-Topics will be demonstrated through live-code examples during scheduled video hangouts.
+Topics will be demonstrated through weekly live-code examples during scheduled video hangouts.
 
 ## HOMEWORK/PROJECTS
 
@@ -56,38 +56,36 @@ All your assignments are listed within the [Course Outline](#course-outline).
 
 If you're using GitHub Desktop, [these instructions](https://help.github.com/desktop/guides/contributing/) will help explain the Git/GitHub concepts. Here are the overall steps:
 
-1. Fork the repository for the exercise/project (found under [github.com/monigarrteam](https://github.com/monigarrteam)).
-1. Clone the repository to your computer.
-1. Create a New Android Project or Open your Existing Android Project in the same directory that your repository is found on your own computer.
-1. Work on your New or Existing Android Project in Android Studio and save your work in your local computer's repository. 
-1. Commit all your code. 
-1. Push/sync your code up to GitHub.
-1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request/) on the original repository. 
-1. All work is due by Thursday midnight the latest, unless otherwise specified.
-1. You can continue to push fixes and improvements until the close date (listed in Classes) – just add a comment in the pull request to let the instructor know your work has been updated.
+1. Fork the repository for the exercise/project (found under [github.com/monigarrteam](https://github.com/monigarrteam/projectname)).
+1. Clone the repository to your computer.  $git clone http://www.urltoyourownrepository.com
+1. Create a New Android Project in the above repository folder that is found on your own computer.
+1. Work on your Android Project in Android Studio and save your work in your local computer's repository. 
+1. Commit all your code. $git add -A   $git commit -m "description of your work"
+1. Push/sync your code up to GitHub.   $git push origin master
+1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request/) on the original repository before the due date of thursday midnight. 
+1. All your work is due by Thursday midnight the latest, unless otherwise specified.
 
-When the pull request is created, you should see a message saying that "the Travis CI build is in progress" – this means your solution is being automatically checked for syntax errors.  If this "build" ends up failing (which will show a red "X"), click through the "details" link and scroll to the bottom to see what the errors were.  Per the [requirements](#requirements) below, please fix your issues and push up the changes.
+When your pull request is created, you should see a message saying "the Travis CI build is in progress" – this means your solution is being automatically checked for syntax errors.  If this "build" ends up failing (which will show a red "X"), click through the "details" link and scroll to the bottom to see what the errors were.  Per the [requirements](#requirements) below, please fix your issues and push up the changes.
 
-Feedback will be given in the pull request, so please respond with your thoughts and questions!  You are welcome to open the pull request as the work is still in-progress if you are stuck and want to ask a question – just mention `@monigarr` with the question to make sure the instructor will know to look at it sooner.
+Feedback will be given in your pull request, so please respond with your thoughts and questions!  You are welcome to open the pull request as the work is still in-progress if you are stuck and want to ask a question – just mention `@monigarr` with the question to make sure the instructor will know to look at it sooner.
 
-Your solution will also be live at `http://USERNAME.github.io/YOURPROJECTNAME`.  For exercises with multiple levels/versions, leave a new comment in the pull request saying "Level X finished!" before pushing commits for the next level. "BONUS" levels are for extra credit.
+Your solution will also be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAME`.  For exercises with multiple levels/versions, leave a new comment in the pull request saying "Level X finished!" before pushing commits for the next level. "BONUS" levels are for extra credit.
 
 ### REQUIREMENTS
 
 These apply to real life, as well.
 
-* [Travis CI](https://docs.travis-ci.com/) build should pass and includes:
-    * All HTML files should pass [W3C Markup Validation](http://validator.w3.org).
-    * All written JS should pass [JSHint](http://jshint.com).
+* [Travis CI](https://docs.travis-ci.com/) build should pass.
 * Must apply "good programming style" learned in class
     * Functions should be "short" (see [Sandi Metz's rules for developers](https://robots.thoughtbot.com/sandi-metz-rules-for-developers)).
-    * Optimize for readability.
+    * Optimize for Readability.
         * ["Programs must be written for people to read, and only incidentally for machines to execute." -Harold Abelson](https://www.goodreads.com/quotes/9168-programs-must-be-written-for-people-to-read-and-only)
     * Avoid using anonymous callbacks within other functions, especially if the callback is more than one or two lines.
     * For projects, use Object-Oriented Programming.
 * Any borrowed code must be properly [annotated](http://documentup.com/advanced-js/syllabus#statements-on-plagiarism/instructor).
-* Bonus points for:
-    * [Automated tests](#test-frameworks)
+* Bonus Points for:
+    * [Unit Tests]
+    * [Optimization Techniques]
     * Creativity as long as requirements are fulfilled
 
 ## COURSE OUTLINE
@@ -95,7 +93,7 @@ These apply to real life, as well.
 ### WEEK 1 CLASS
 
 1. Intro
-    * Introduce yourselves in private online class: your name, github link, facebook link, twitter link, linkedin link, youtube link and google+ link
+    * Introduce yourselves in private online class: your name, link to your social profiles: github, facebook, twitter, linkedin, youtube and google+
     * Details about what the class is going to cover
 1. Verify Students' Setups
     * Android Studio
