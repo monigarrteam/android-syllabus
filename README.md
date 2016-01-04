@@ -25,6 +25,9 @@ All of the following is required from you, BEFORE your first class.
 	* YouTube Channel: https://www.google.com/search?q=how+to+create+a+youtube+channel&ie=utf-8&oe=utf-8
 * Install Github Desktop: https://desktop.github.com/ 
 * Install Android Studio: http://developer.android.com/sdk/index.html
+* Read Android Studio Overview http://developer.android.com/tools/studio/index.html
+* Read [Android 1st App](http://developer.android.com/training/basics/firstapp/index.html)
+* Read [Android Different Devices](http://developer.android.com/training/basics/supporting-devices/index.html)
 * Basic computer, mobile device and internet skills: web browsing, typing, copying, pasting, saving files, downloading content, sharing content on social networks, emailing, messaging, watching youtube videos, communicating with social networks.
 
 ## COURSE OVERVIEW
@@ -75,8 +78,6 @@ Your solution will also be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAM
 
 ### REQUIREMENTS
 
-These apply to real life, as well.
-
 * [Travis CI](https://docs.travis-ci.com/) build should pass.
 * Must apply "good programming style" learned in class
     * Functions should be "short" (see [Sandi Metz's rules for developers](https://robots.thoughtbot.com/sandi-metz-rules-for-developers)).
@@ -86,9 +87,9 @@ These apply to real life, as well.
     * For projects, use Object-Oriented Programming.
 * Any borrowed code must be properly [annotated](http://documentup.com/advanced-js/syllabus#statements-on-plagiarism/instructor).
 * Bonus Points for:
-    * [Unit Tests]
+    * [Unit Testing with 50% or more code coverage]
     * [Optimization Techniques]
-    * Creativity as long as requirements are fulfilled
+    * [Creativity] as long as requirements are fulfilled
 
 ## COURSE OUTLINE
 
@@ -107,26 +108,24 @@ These apply to real life, as well.
 1. Explain Weekly Project Expectations - how to be successful
 1. Code review project 1
 
-#### WEEK 1 HOMEWORK
+#### PROJECT 1 HOMEWORK
 
-* Join [the class community](https://plus.google.com/u/2/communities/108491196328338711093).
-* Access [MoniGarr.com Classes](https://www.monigarr.com) page, where grades will be posted.
+* Join [class community](https://plus.google.com/u/2/communities/108491196328338711093).
+* Login [MoniGarr.com Classes](https://www.monigarr.com) page, where grades will be posted.
     * [Documentation](https://www.monigarr.com/android2016course/Student+Quick-Start)
 * Android Studio Walkthrough
-* Read [Android Studio Overview](http://developer.android.com/tools/studio/index.html).
-* Read [Android 1st App]()
-* Read [Android Lifecycle]()
-* Read [Android Dynamic UI]()
+* Read [Android Lifecycle](http://developer.android.com/training/basics/activity-lifecycle/index.html)
+* Read [Android Dynamic UI](http://developer.android.com/training/basics/fragments/index.html)
 * Read [Android Design](http://developer.android.com/design/index.html)
-* Finish up and submit [FirstNameLastName_AndroidProjectOne](https://github.com/monigarrteam/androidprojectone)
-* Add link, description & screenshot to your completed project on your:
+* Finish up and submit [FirstNameLastName_AndroidProject1](https://github.com/monigarrteam/androidproject1)
+* Add link, description & screenshot of your project on your:
 	* facebook profile.
 	* twitter profile
 	* linkedin profile
 	* youtube profile
 	* google profile
 
-### WEEK 2 CLASS
+### PROJECT 2 CLASS
 
 1. Code review project 2
 1. Look at options for saving data, interacticing with other apps and setting up app permissions
@@ -136,20 +135,20 @@ These apply to real life, as well.
     * interacting with other apps
     * saving data with your app
 
-#### WEEK 2 HOMEWORK
+#### PROJECT 2 HOMEWORK
 
-1. * Read [Android Saving Data]()
-1. * Read [Android Interacting with Other Apps]()
-1. * Read [Android Setting Permissions]()
-* Finish up and submit [FirstNameLastName_AndroidProjectTwo](https://github.com/monigarrteam/androidprojectone)
-* Add link, description & screenshot to your completed project on your:
+1. * Read [Android Saving Data](http://developer.android.com/training/basics/data-storage/index.html)
+1. * Read [Android Interacting with Other Apps](http://developer.android.com/training/basics/intents/index.html)
+1. * Read [Android Setting Permissions](http://developer.android.com/training/permissions/index.html)
+* Finish up and submit [FirstNameLastName_AndroidProject2](https://github.com/monigarrteam/androidproject2)
+* Add link, description & screenshot of your project on your:
 	* facebook profile.
 	* twitter profile
 	* linkedin profile
 	* youtube profile
 	* google profile
 
-### WEEK 3 CLASS
+### PROJECT 3 CLASS
 
 1. Code review project 3
 1. Look at options for android app content sharing
@@ -157,187 +156,244 @@ These apply to real life, as well.
 1. Android Studio Project Walkthrough
     * content sharing
 
-#### WEEK 3 HOMEWORK
+#### PROJECT 3 HOMEWORK
 
-* Read [name](http://)
-* Finish and submit [FirstNameLastName_AndroidProjectThree](https://github.com/monigarrteam/androidprojectthree)
-* Add link, description & screenshot to your completed project on your:
+* Read [Android Content Sharing](http://developer.android.com/training/building-content-sharing.html)
+* Finish and submit [FirstNameLastName_AndroidProject3](https://github.com/monigarrteam/androidproject3)
+* Add link, description & screenshot of your project on your:
 	* facebook profile.
 	* twitter profile
 	* linkedin profile
 	* youtube profile
 	* google profile
 
-### WEEK 4 CLASS
+### PROJECT 4 CLASS
 
 1. Code review project 4
 1. Look at options for multimedia, graphics and animation
     * Show solutions for each
 1. Android Studio Project Walkthrough
 
-#### WEEK 4 HOMEWORK
+#### PROJECT 4 HOMEWORK
 
-* Read[something](https://github.com/)
+* Read[Android Multimedia](http://developer.android.com/training/building-multimedia.html)
+* Read [Android Graphics & Animation](http://developer.android.com/training/building-graphics.html)
 * Improve your previous assignments
-* Finish up and submit [FirstNameLastName_AndroidProjectFour](https://github.com/monigarrteam/androidprojectfour)
-* Add link, description & screenshot to your completed project on your:
+* Finish up and submit [FirstNameLastName_AndroidProject4](https://github.com/monigarrteam/androidproject4)
+* Add link, description & screenshot of your project on your:
 	* facebook profile.
 	* twitter profile
 	* linkedin profile
 	* youtube profile
 	* google profile
 
-### WEEK 5 CLASS
+### PROJECT 5 CLASS
 
 1. Code review project 5
 1. Look at options for connectivity and cloud
     * Show solutions for each
 1. Android Studio Project Walkthrough
 
-#### WEEK 5 HOMEWORK
+#### PROJECT 5 HOMEWORK
 
-* Read[something](https://github.com/)
+* Read[Android Connectivity & Cloud](http://developer.android.com/training/building-connectivity.html)
 * Improve your previous assignments
-* Finish up and submit [FirstNameLastName_AndroidProjectFive](https://github.com/monigarrteam/androidprojectfive)
-* Add link, description & screenshot to your completed project on your:
+* Finish up and submit [FirstNameLastName_AndroidProject5](https://github.com/monigarrteam/androidproject5)
+* Add link, description & screenshot of your project on your:
 	* facebook profile.
 	* twitter profile
 	* linkedin profile
 	* youtube profile
 	* google profile
 
-### WEEK 6 CLASS
+### PROJECT 6 CLASS
 
 1. Code review project 6
 1. Look at options for location and maps
     * Show solutions for each
 1. Android Studio Project Walkthrough
 
-#### WEEK 6 HOMEWORK
+#### PROJECT 6 HOMEWORK
 
-* Read[something](https://github.com/)
+* Read[Android Location & Maps](http://developer.android.com/training/building-location.html)
 * Improve your previous assignments
-* Finish up and submit [FirstNameLastName_AndroidProjectOne](https://github.com/monigarrteam/androidprojectsix)
-* Add link, description & screenshot to your completed project on your:
+* Finish up and submit [FirstNameLastName_AndroidProject6](https://github.com/monigarrteam/androidproject6)
+* Add link, description & screenshot of your project on your:
 	* facebook profile.
 	* twitter profile
 	* linkedin profile
 	* youtube profile
 	* google profile
 
-### WEEK 7 CLASS
+### PROJECT 7 CLASS
 
 1. Code review project 7
 1. Look at options for user info & sign-in
     * Show solutions for each
 1. Android Studio Project Walkthrough
 
-#### WEEK 7 HOMEWORK
+#### PROJECT 7 HOMEWORK
 
-* Read[something](https://github.com/)
+* Read[Android user info & sign in](http://developer.android.com/training/building-userinfo.html)
 * Improve your previous assignments
-* Finish up and submit [FirstNameLastName_AndroidProjectOne](https://github.com/monigarrteam/androidprojectseven)
-* Add link, description & screenshot to your completed project on your:
+* Finish up and submit [FirstNameLastName_AndroidProject7](https://github.com/monigarrteam/androidproject7)
+* Add link, description & screenshot of your project on your:
 	* facebook profile.
 	* twitter profile
 	* linkedin profile
 	* youtube profile
 	* google profile
 
-### WEEK 8 CLASS
+### PROJECT 8 CLASS
 
 1. Code review project 8
 1. Look at options for wearables, tv and auto
     * Show solutions for each
 1. Android Studio Project Walkthrough
 
-#### WEEK 8 HOMEWORK
+#### PROJECT 8 HOMEWORK
 
 * Read[something](https://github.com/)
 * Improve your previous assignments
-* Finish up and submit [FirstNameLastName_AndroidProjectEight](https://github.com/monigarrteam/androidprojectone)
-* Add link, description & screenshot to your completed project on your:
+* Finish up and submit [FirstNameLastName_AndroidProject8](https://github.com/monigarrteam/androidproject8)
+* Add link, description & screenshot of your project on your:
 	* facebook profile.
 	* twitter profile
 	* linkedin profile
 	* youtube profile
 	* google profile
 
-### WEEK 9 CLASS
+### PROJECT 9 CLASS
 
 1. Code review project 9
 1. Look at options for google services
     * Show solutions for each
 1. Android Studio Project Walkthrough
 
-#### WEEK 9 HOMEWORK
+#### PROJECT 9 HOMEWORK
 
-* Read[something](https://github.com/)
+* Read[Android Wearables](http://developer.android.com/training/building-wearables.html)
+* Read [Android TV](http://developer.android.com/training/tv/index.html)
+* Read [Android Auto](http://developer.android.com/training/auto/index.html)
 * Improve your previous assignments
-* Finish up and submit [FirstNameLastName_AndroidProjectOne](https://github.com/monigarrteam/androidprojectnine)
-* Add link, description & screenshot to your completed project on your:
+* Finish up and submit [FirstNameLastName_AndroidProject9](https://github.com/monigarrteam/androidproject9)
+* Add link, description & screenshot of your project on your:
 	* facebook profile.
 	* twitter profile
 	* linkedin profile
 	* youtube profile
 	* google profile
 
-### WEEK 10 CLASS
+### PROJECT 10 CLASS
 
 1. Code review project 10
-1. Look at options for best practices
+1. Look at options for Best Practices Interaction & Engagement
     * Show solutions for each
 1. Android Studio Project Walkthrough
 
-#### WEEK 10 HOMEWORK
+#### PROJECT 10 HOMEWORK
 
-* Read[something](https://github.com/)
+* Read[Interaction & Engagement](http://developer.android.com/training/best-ux.html)
 * Improve your previous assignments
-* Finish up and submit [FirstNameLastName_AndroidProjectOne](https://github.com/monigarrteam/androidprojectten)
-* Add link, description & screenshot to your completed project on your:
+* Finish up and submit [FirstNameLastName_AndroidProject10](https://github.com/monigarrteam/androidprojectt10)
+* Add link, description & screenshot of your project on your:
 	* facebook profile.
 	* twitter profile
 	* linkedin profile
 	* youtube profile
 	* google profile
 
-### WEEK 11 CLASS
+### PROJECT 11 CLASS
 
 1. Code review project 11
-1. Look at options for ...
+1. Look at options for Best Practices User Interfaces
     * Show solutions for each
 1. Android Studio Project Walkthrough
 
-#### WEEK 11 HOMEWORK
+#### PROJECT 11 HOMEWORK
 
-* Read[something](https://github.com/)
+* Read [UI](http://developer.android.com/training/best-ui.html)
 * Improve your previous assignments
-* Finish up and submit [FirstNameLastName_AndroidProjectOne](https://github.com/monigarrteam/androidprojecteleven)
-* Add link, description & screenshot to your completed project on your:
+* Finish up and submit [FirstNameLastName_AndroidProject11](https://github.com/monigarrteam/androidproject11)
+* Add link, description & screenshot of your project on your:
 	* facebook profile.
 	* twitter profile
 	* linkedin profile
 	* youtube profile
 	* google profile
 
-### WEEK 12 CLASS
+### PROJECT 12 CLASS
 
 1. Code review project 12
-1. Look at options for polishing & finalizing student's portfolio
+1. Look at options for Best Practices Background Jobs
     * Show solutions for each
 1. Android Studio Project Walkthrough
 
 #### WEEK 12 HOMEWORK
 
-* Read[something](https://github.com/)
-* Improve your previous assignments
-* Finish up and submit [FirstNameLastName_AndroidProjectOne](https://github.com/monigarrteam/androidprojecttwelve)
-* Add link, description & screenshot to your completed project on your:
+* Read [Background Jobs](http://developer.android.com/training/best-background.html)
+* Finish up and submit [FirstNameLastName_AndroidProject12](https://github.com/monigarrteam/androidproject12)
+* Add link, description & screenshot of your project on your:
 	* facebook profile
 	* twitter profile
 	* linkedin profile
 	* youtube profile
 	* google profile
+
+### PROJECT 13 CLASS
+
+1. Code review project 13
+1. Look at options for Best Practices Performance
+    * Show solutions for each
+1. Android Studio Project Walkthrough
+
+#### PROJECT 13 HOMEWORK
+
+* Read [Performance](http://developer.android.com/training/best-performance.html)
+* Finish up and submit [FirstNameLastName_AndroidProject13](https://github.com/monigarrteam/androidproject13)
+* Add link, description & screenshot of your project on your:
+	* facebook profile
+	* twitter profile
+	* linkedin profile
+	* youtube profile
+	* google profile
+
+### PROJECT 14 CLASS
+
+1. Code review project 14
+1. Look at options for Best Practices Security & Privacy
+    * Show solutions for each
+1. Android Studio Project Walkthrough
+
+#### WEEK 14 HOMEWORK
+
+* Read [Security & Privacy](http://developer.android.com/training/best-performance.html)
+* Finish up and submit [FirstNameLastName_AndroidProject14](https://github.com/monigarrteam/androidproject14)
+* Add link, description & screenshot of your project on your:
+	* facebook profile
+	* twitter profile
+	* linkedin profile
+	* youtube profile
+	* google profile
+
+### PROJECT 12 CLASS
+
+1. Code review project 15
+1. Look at options for Best Practices Testing
+    * Show solutions for each
+1. Android Studio Project Walkthrough
+
+#### WEEK 15 HOMEWORK
+
+* Read [Testing](http://developer.android.com/training/testing.html)* Improve your previous assignments
+* Finish up and submit [FirstNameLastName_AndroidProject15](https://github.com/monigarrteam/androidproject15)
+* Add link, description & screenshot of your project on your:
+	* facebook profile
+	* twitter profile
+	* linkedin profile
+	* youtube profile
+	* google profile
+
 
 ## Resources
 
