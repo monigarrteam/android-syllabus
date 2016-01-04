@@ -19,15 +19,13 @@ All of the following is required from you, BEFORE your first class.
 
 * Your Own Laptop
 * Android Device
-* Social Network Profiles Setup for class work & to share with entire class.
+* Your Own Social Network Profiles Setup for Class work & to share with entire class.
 	* Facebook profile: http://www.FaceBook.com
 	* Twitter profile: http://www.Twitter.com
 	* LinkedIn Profile: http://www.linkedin.com
 	* Google+ profile: http://plus.google.com
 	* YouTube Channel: https://www.google.com/search?q=how+to+create+a+youtube+channel&ie=utf-8&oe=utf-8
-	
 * Install Github Desktop: https://desktop.github.com/ 
-* Read Git Basics: http://git-scm.com/book/en/v2/Getting-Started-Git-Basics
 * Install Android Studio: http://developer.android.com/sdk/index.html
 * Basic computer, mobile device and internet skills: web browsing, typing, copying, pasting, saving files, downloading content, sharing content on social networks, emailing, messaging, watching youtube videos, communicating with social networks.
 
@@ -95,7 +93,6 @@ These apply to real life, as well.
     * [Automated tests](#test-frameworks)
     * Creativity as long as requirements are fulfilled
 
-
 ## COURSE OUTLINE
 
 ### WEEK 1 CLASS
@@ -131,7 +128,6 @@ These apply to real life, as well.
 	* linkedin profile
 	* youtube profile
 	* google profile
-
 
 ### WEEK 2 CLASS
 
@@ -289,7 +285,6 @@ These apply to real life, as well.
 	* youtube profile
 	* google profile
 
-
 ### WEEK 10 CLASS
 
 1. Code review project 10
@@ -347,7 +342,6 @@ These apply to real life, as well.
 	* youtube profile
 	* google profile
 
-
 ## Resources
 
 ### Required Reading
@@ -356,7 +350,6 @@ These apply to real life, as well.
 * [Android Developer](http://bonsaiden.github.com/JavaScript-Garden/)
 * [Git](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
 * [Github](http://blog.parse.com/learn/engineering/whats-so-great-about-javascript-promises/)
-* h
 
 ### BEGINNER MATERIALS
 
@@ -411,7 +404,7 @@ This class assumes you are confident with the following, but in case you need a 
 * [Background Jobs](http://developer.android.com/training/best-background.html)
 * [Performance](http://developer.android.com/training/best-performance.html)
 * [Security & Privacy](http://developer.android.com/training/best-security.html)
-
+* [Git Basics](http://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 
 ### REFERENCE
 
@@ -419,7 +412,6 @@ This class assumes you are confident with the following, but in case you need a 
 * [Android Studio](http://developer.android.com/sdk/index.html)
 * [Android Activity Lifecycle](http://developer.android.com/training/basics/activity-lifecycle/index.html)
 * [API Guides](http://developer.android.com/guide/index.html)
-
 
 ### MORE EXAMPLES
 
