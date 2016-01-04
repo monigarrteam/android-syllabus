@@ -2,7 +2,7 @@
 Syllabus for the Android development training with MoniGarr.com 
 
 
-* **Course:** [AndroidDev2016, MoniGarr.com](http://www.MoniGarr.com)
+* **Course:** [AndroidDevMoniGarrFebruary2016, MoniGarr.com](http://www.MoniGarr.com)
 * **Instructor:** Monica Peters, [monigarr@yahoo.com](mailto:monigarr@yahoo.com)
 * **Need help?**
     * Look through and create [issues](https://github.com/monigarrteam/android-syllabus/issues)
@@ -33,18 +33,20 @@ Dive into Android software development. Research, practice, testing and weekly p
 
 ## WEEKLY ANDROID HOMEWORK / PROJECTS INCLUDE:
 
-* Week 1: Intros, Schedules, Success Plan, Project 1
-* Week 1: 1st App, Lifecycle, Dynamic UI, Project 2
-* Week 2: Save Data, Interact, Permissions, Project 3
-* Week 3: Content Sharing, Project 4
-* Week 4: Multimedia, Graphics, Animation, Project 5
-* Week 5: Connectivity, Cloud, Project 6
-* Week 6: Location & Maps, Project 7
-* Week 7: User Info & Sign-in, Project 8
-* Week 8: Wearables, TV, Auto, Project 9
-* Week 9: Google Services, Project 10
-* Week 10: Best Practices, Project 11
-* Week 11: Android Portfolio Polish, Project 12
+* Week 1: Intros, Schedules, Success Plan
+* Week 1: 1st App, Lifecycle, Dynamic UI, Project 1
+* Week 2: Save Data, Interact, Permissions, Project 2
+* Week 3: Content Sharing, Project 3
+* Week 4: Multimedia, Graphics, Animation, Project 4
+* Week 5: Connectivity, Cloud, Project 5
+* Week 6: Location & Maps, Project 6
+* Week 7: User Info & Sign-in, Project 7
+* Week 8: Wearables, TV, Auto, Project 8
+* Week 9: Google Services, Project 9
+* Week 10: Best Practices, Project 10
+* Week 11: Android Portfolio Polish, Project 11
+* Week 12: Android Portfolio Publish & Promote
+Final Grades & Celebration
 
 Topics will be demonstrated through weekly live-code examples during scheduled video hangouts.
 
@@ -63,7 +65,7 @@ If you're using GitHub Desktop, [these instructions](https://help.github.com/des
 1. Commit all your code. $git add -A   $git commit -m "description of your work"
 1. Push/sync your code up to GitHub.   $git push origin master
 1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request/) on the original repository before the due date of thursday midnight. 
-1. All your work is due by Thursday midnight the latest, unless otherwise specified.
+1. All your work is due before Thursday midnight the latest, unless otherwise specified.
 
 When your pull request is created, you should see a message saying "the Travis CI build is in progress" – this means your solution is being automatically checked for syntax errors.  If this "build" ends up failing (which will show a red "X"), click through the "details" link and scroll to the bottom to see what the errors were.  Per the [requirements](#requirements) below, please fix your issues and push up the changes.
 
