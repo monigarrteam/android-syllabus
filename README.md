@@ -1,5 +1,5 @@
 # android-syllabus
-Syllabus for the Android development training with MoniGarr.com 
+Syllabus for Android development training with MoniGarr.com 
 
 
 * **Course:** [AndroidDevMoniGarrFebruary2016, MoniGarr.com](http://www.MoniGarr.com)
@@ -10,7 +10,7 @@ Syllabus for the Android development training with MoniGarr.com
 
 ## COURSE DESCRIPTION
 
-Learn how to develop an Android app with java and android studio in this intensive, 12 week course. Topics include software installation, best practices, android ui, material design, java programming language, debugging and . Discover some of the lesser-known useful features of android software development, such as how to improve your android app performance, security and stability provides the best end user experience available. Create Android apps for mobile phones, wearables and more using industry standard Android Studio.
+Learn how to develop an Android app with java and android studio in this online project based course. Topics include software installation, best practices, android ui, material design, java programming language, debugging and more. Discover some of the lesser-known useful features of android software development, such as how to improve your android app performance, security and stability provides the best end user experience available. Create Android apps for mobile phones, wearables and more using industry standard Android Studio.
 
 ## PREREQUISITES
 All of the following is required from you, BEFORE your first class.
@@ -36,20 +36,20 @@ Dive into Android software development. Research, practice, testing and weekly p
 
 ## WEEKLY ANDROID HOMEWORK / PROJECTS INCLUDE:
 
-* Week 1: Intros, Schedules, Success Plan
-* Week 1: 1st App, Lifecycle, Dynamic UI, Project 1
-* Week 2: Save Data, Interact, Permissions, Project 2
-* Week 3: Content Sharing, Project 3
-* Week 4: Multimedia, Graphics, Animation, Project 4
-* Week 5: Connectivity, Cloud, Project 5
-* Week 6: Location & Maps, Project 6
-* Week 7: User Info & Sign-in, Project 7
-* Week 8: Wearables, TV, Auto, Project 8
-* Week 9: Google Services, Project 9
-* Week 10: Best Practices, Project 10
-* Week 11: Android Portfolio Polish, Project 11
-* Week 12: Android Portfolio Publish & Promote
-Final Grades & Celebration
+* Project 1: Intros, Schedules, Success Plan
+* Project 1: 1st App, Lifecycle, Dynamic UI
+* Project 2: Save Data, Interact, Permissions
+* Project 3: Content Sharing
+* Project 4: Multimedia, Graphics, Animation
+* Project 5: Connectivity, Cloud
+* Project 6: Location & Maps
+* Project 7: User Info & Sign-in
+* Project 8: Wearables, TV, Auto
+* Project 9: Google Services
+* Project 10: Best Practices
+* Project 11: Best Practices
+* Project 12: Best Practices
+* Project 13: Best Practices
 
 Topics will be demonstrated through weekly live-code examples during scheduled video hangouts.
 
