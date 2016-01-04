@@ -5,8 +5,6 @@ Syllabus for the Android development training with MoniGarr.com
 * **Course:** [AndroidDev2016, MoniGarr.com](http://www.MoniGarr.com)
 * **Instructor:** Monica Peters, [monigarr@yahoo.com](mailto:monigarr@yahoo.com)
 * **Need help?**
-    * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/advanced-js/syllabus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-        * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
     * Look through and create [issues](https://github.com/monigarrteam/android-syllabus/issues)
    * [Email](mailto:monigarr@yahoo.com) for 1-on-1 help, or to set up a time to meet
 
@@ -40,26 +38,20 @@ Students will dive into Android software development skills and tools. Research,
 ## WEEKLY ANDROID HOMEWORK / PROJECTS INCLUDE:
 
 Basics:
-* Week 1: Basic skills for collaborative development, testing and debugging
-* Week 2: Basic requirements & success plan for course assignments
-* Week 3: Standard Android UI & Design Patterns
-* Week 4: Custom Android UI & Design Patterns
+* Week 1: Intros, Schedules & Success Plan
+* Week 1: 1st App, Lifecycle, Dynamic UI
+* Week 2: Save Data, Interact, Permissions
+* Week 3: Content Sharing
+* Week 4: Multimedia, Graphics, Animation
+* Week 5: Connectivity, Cloud
+* Week 6: Location & Maps
+* Week 7: User Info & Sign-in
+* Week 8: Wearables, TV, Auto
+* Week 9: Google Services
+* Week 10: Best Practices
+* Week 11: Android Portfolio Polish
 
-Android App for a Small Local Business:
-* Week 5: Android App project planning, budgeting, documentation and more
-* Week 6: Android App Navigation: various options
-* Week 7: Android App Branding: color, layout, static content
-* Week 8: Android App Dynamic Content Feeds: json, xml, rss
-
-* Week 9: Android App Feature: social networking
-* Week 10: Android App Feature: mcommerce
-* Week 11: Android App MultiScreen: tv and wearables
-* Week 12: Android App MultiScreen: auto
-
-
-Topics will be demonstrated through live-code examples/slides, available at [monigarrteam.github.io/deck](http://monigarrteam.github.io/deck/).  Additional exercises will completed in-class.
-
-See [this interview](https://www.monigarr.com/blog/interview) for more background.
+Topics will be demonstrated through live-code examples during scheduled video hangouts.
 
 ## HOMEWORK/PROJECTS
 
@@ -218,12 +210,11 @@ These apply to real life, as well.
 
 ### Required Reading
 
-* [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
-* [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
-* [Mozilla's Introduction to Object-Oriented Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
-* [What’s so great about JavaScript Promises?](http://blog.parse.com/learn/engineering/whats-so-great-about-javascript-promises/)
-* https://twitter.com/necolas/status/291978260433219584
-* http://afeld.me/nerdery/1742468
+* [Android Studio Install](http://google-styl)
+* [Android Developer](http://bonsaiden.github.com/JavaScript-Garden/)
+* [Git](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
+* [Github](http://blog.parse.com/learn/engineering/whats-so-great-about-javascript-promises/)
+* h
 
 ### BEGINNER MATERIALS
 
@@ -242,11 +233,6 @@ This class assumes you are confident with the following, but in case you need a 
 * [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/) by @shichuan (thanks @iandrewfuchs)
 * [JavaScript Patterns](http://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752) by Stoyan Stephanov
 * [JavaScript Web Applications](http://www.amazon.com/JavaScript-Web-Applications-Alex-MacCaw/dp/144930351X/) by Alex MacCaw
-* [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) by Douglas Crockford
-* [Learning Advanced JavaScript slides](http://ejohn.org/apps/learn/) by John Resig
-* [Static Web Apps](http://www.staticapps.org/)
-* [Test-Driven JavaScript Development](http://www.amazon.com/Test-Driven-JavaScript-Development-Developers-Library/dp/0321683919) by Christian Johansen
-* [The JavaScript Interpreter, Interpreted](http://www.slideshare.net/marthakelly/js-interpreter-interpreted) by Martha Girdler [(video)](https://www.youtube.com/watch?v=iSxNCYcPAFk)
 
 #### SPECIFIC TOPICS
 
@@ -266,14 +252,14 @@ This class assumes you are confident with the following, but in case you need a 
 
 ### TOOLS
 
-* code validation: [JSLint](http://jslint.com) / [JSHint](http://jshint.com)
-* debugging:
+* Code Validation: [JSLint](http://jslint.com) / [JSHint](http://jshint.com)
+* Debugging:
     * [Chrome Developer Tools](https://developer.chrome.com/devtools/index)
         * [Official debugging tutorial](https://developer.chrome.com/extensions/tut_debugging)
         * Tutorial: [JavaScript Diagnosis](http://www.macwright.org/2015/03/10/javascript-diagnosis.html)
     * [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
-* sharing code snippets: [gist.github.com](https://gist.github.com/)
-* asking questions: [Stack Overflow](http://stackoverflow.com/)
+* Sharing Code: [gist.github.com](https://gist.github.com/)
+* Asking Questions: [Stack Overflow](http://stackoverflow.com/)
 
 #### GITHUB
 
@@ -284,30 +270,34 @@ This class assumes you are confident with the following, but in case you need a 
     * [Official site](https://pages.github.com/)
     * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
 
-#### JAVA SANDBOXES
+#### SANDBOXES
 
-* [JS Bin](http://jsbin.com/) (recommended)
-* [bl.ocks.org](http://bl.ocks.org/)
-* [Cloud9](https://c9.io/)
-* [CodePen](http://codepen.io/pen/)
-* [JSFiddle](http://jsfiddle.net/)
-* [Plunker](http://plnkr.co/)
+* [Browxy](http://www.browxy.com/) (recommended)
 * [rawgithub.com](http://rawgit.com/)
 
-#### FRAMEWORKS
+#### BEST PRACTICES
 
-* Framework comparison: [TodoMVC](http://todomvc.com)
+* [Interaction & Engagement](http://developer.android.com/training/best-ux.html)
 * [Testing](https://coderwall.com/p/ntbixw)
+* [User Interface](http://developer.android.com/training/best-ui.html)
+* [Background Jobs](http://developer.android.com/training/best-background.html)
+* [Performanc](http://developer.android.com/training/best-performance.html)
+* [Security & Privacy](http://developer.android.com/training/best-security.html)
+
 
 ### REFERENCE
 
-* [Mozilla Developer Network](https://developer.mozilla.org/en/JavaScript) and [Learn JavaScript](https://developer.mozilla.org/en-US/learn/javascript)
-* [w3schools](http://www.w3schools.com/jsref/default.asp)
-* [JavaScript: The Definitive Guide](http://shop.oreilly.com/product/9780596000486.do) by David Flanagan
+* [Pure Android](http://developer.android.com/design/patterns/pure-android.html)
+* [Android Studio](http://developer.android.com/sdk/index.html)
+* [Android Activity Lifecycle](http://developer.android.com/training/basics/activity-lifecycle/index.html)
+* [API Guides](http://developer.android.com/guide/index.html)
+
 
 ### MORE EXAMPLES
 
-* [map/reduce](http://jsbin.com/ojapAsUR/2/edit?js) (in [Underscore](http://underscorejs.org/#map))
+* [Android App Patterns](http://www.android-app-patterns.com/)
+* [Android Material Design](http://developer.android.com/design/index.html)
+* [Android Training](http://developer.android.com/training/index.html)
 
 ## GRADING
 
