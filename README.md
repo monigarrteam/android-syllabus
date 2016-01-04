@@ -17,8 +17,7 @@ You will use your own apple laptop.
 ## PREREQUISITES
 All of the following is required from you, BEFORE your first class.
 
-* Your Own Laptop
-* Android Device
+* Your Own Laptop & Android Device
 * Your Own Social Network Profiles Setup for Class work & to share with entire class.
 	* Facebook profile: http://www.FaceBook.com
 	* Twitter profile: http://www.Twitter.com
