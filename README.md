@@ -12,8 +12,6 @@ Syllabus for the Android development training with MoniGarr.com
 
 Learn how to develop an Android app with java and android studio in this intensive, 12 week course. Topics include software installation, best practices, android ui, material design, java programming language, debugging and . Discover some of the lesser-known useful features of android software development, such as how to improve your android app performance, security and stability provides the best end user experience available. Create Android apps for mobile phones, wearables and more using industry standard Android Studio.
 
-You will use your own apple laptop.
-
 ## PREREQUISITES
 All of the following is required from you, BEFORE your first class.
 
@@ -30,7 +28,7 @@ All of the following is required from you, BEFORE your first class.
 
 ## COURSE OVERVIEW
 
-Students will dive into Android software development skills and tools. Research, practice, testing and weekly projects to actually build solutions that will be added to each student's public portfolioon social networks. The focus will be on developing weekly android app projects that build on the previous weeks' projects while helping the student create their own online branded portfolio.
+Dive into Android software development. Research, practice, testing and weekly projects will create student's public online portfolios with social networks. The focus will be on developing weekly android app projects that build on the previous weeks' work while helping the student create their own online branded portfolio to help gain future work as an android developer.
 
 ## WEEKLY ANDROID HOMEWORK / PROJECTS INCLUDE:
 
