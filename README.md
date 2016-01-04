@@ -111,100 +111,242 @@ These apply to real life, as well.
     * Walk through [workflow](#workflow)
     * Create pull request on [students repository](https://github.com/monigarrteam/students)
 1. Explain Weekly Project Expectations - how to be successful
+1. Code review project 1
 
 #### WEEK 1 HOMEWORK
 
 * Join [the class community](https://plus.google.com/u/2/communities/108491196328338711093).
 * Access [MoniGarr.com Classes](https://www.monigarr.com) page, where grades will be posted.
     * [Documentation](https://www.monigarr.com/android2016course/Student+Quick-Start)
+* Android Studio Walkthrough
 * Read [Android Studio Overview](http://developer.android.com/tools/studio/index.html).
-* Finish up and submit [AndroidProjectOne](https://github.com/monigarrteam/androidprojectone)
-* Add link with your statement (what went well, what needs improvement) about your Android Project One to your own social network profiles: facebook, twitter, linkedin, youtube and google+
+* Read [Android 1st App]()
+* Read [Android Lifecycle]()
+* Read [Android Dynamic UI]()
+* Read [Android Design](http://developer.android.com/design/index.html)
+* Finish up and submit [FirstNameLastName_AndroidProjectOne](https://github.com/monigarrteam/androidprojectone)
+* Add link, description & screenshot to your completed project on your:
+	* facebook profile.
+	* twitter profile
+	* linkedin profile
+	* youtube profile
+	* google profile
+
 
 ### WEEK 2 CLASS
 
-1. Look at various approaches for `countdown()`
-    * Show recursive solution
-1. Developer Tools walkthrough
-    * Elements (HTML)
-    * Console (JS)
-    * Scripts (JS)
-1. Pair program to build [Memory v1](https://github.com/advanced-js/memory) (see [pairing tips](#pairing-tips))
-1. Cover OOP, though "oop_inheritance" slide
-    * [Encapsulation example](http://jsbin.com/baqopu/1/edit?css,js,output)
-    * Look at [Backbone.js Events](http://backbonejs.org/docs/backbone.html)
+1. Code review project 2
+1. Look at options for saving data, interacticing with other apps and setting up app permissions
+    * Show solutions for each
+1. Android Studio Project Walkthrough
+    * app permissions
+    * interacting with other apps
+    * saving data with your app
 
 #### WEEK 2 HOMEWORK
 
-* Read [Mozilla's Introduction to Object-Oriented Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
-* [OOP exercise](https://github.com/advanced-js/oop), through V2
-* [Memory v2](https://github.com/advanced-js/memory#v2) (individual)
+1. * Read [Android Saving Data]()
+1. * Read [Android Interacting with Other Apps]()
+1. * Read [Android Setting Permissions]()
+* Finish up and submit [FirstNameLastName_AndroidProjectTwo](https://github.com/monigarrteam/androidprojectone)
+* Add link, description & screenshot to your completed project on your:
+	* facebook profile.
+	* twitter profile
+	* linkedin profile
+	* youtube profile
+	* google profile
 
-### Class 3
+### WEEK 3 CLASS
 
-1. Code review Memory
-1. Get through [`oop_inheritance`](http://advanced-js.github.io/deck/examples/oop_inheritance/) slide
-1. Cover automated testing
-    * Build up a test framework from scratch
-    * Examples in QUnit
-        * [Simple](http://jsbin.com/woqusi/edit?html,js,output)
-        * [Classes](http://jsbin.com/nukamun/edit?js,output)
-        * [QUnit documentation](http://qunitjs.com/)
-    * [Other frameworks](#test-frameworks)
-1. Cover AJAX/CORS/JSONP ([files](https://github.com/advanced-js/deck/tree/gh-pages/demos/ajax))
-    * Network tab in Developer Tools
+1. Code review project 3
+1. Look at options for android app content sharing
+    * Show solutions for each
+1. Android Studio Project Walkthrough
+    * content sharing
 
-#### Homework
+#### WEEK 3 HOMEWORK
 
-* Read [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
-* Complete [OOP exercise](https://github.com/advanced-js/oop) through V4.
-* [Memory V3](https://github.com/advanced-js/memory#v3)
+* Read [name](http://)
+* Finish and submit [FirstNameLastName_AndroidProjectThree](https://github.com/monigarrteam/androidprojectthree)
+* Add link, description & screenshot to your completed project on your:
+	* facebook profile.
+	* twitter profile
+	* linkedin profile
+	* youtube profile
+	* google profile
 
-### Class 4
+### WEEK 4 CLASS
 
-1. Finish slides
-1. Getting Serious example
-    * Quick intro to Backbone.js
-        * [Boilerplate](http://jsbin.com/IGivato/1/edit?html,js,output)
-        * Click the Box [example app](http://jsbin.com/IGivato/5/edit?css,js,output)
-        * TDD?
-1. Multiple async
-    * [Promises](https://github.com/advanced-js/deck/tree/gh-pages/demos/ajax/promises)/[jQuery.Deferred](http://api.jquery.com/jQuery.Deferred/)
-    * Possibly show [async](https://github.com/caolan/async#control-flow-1) library?
+1. Code review project 4
+1. Look at options for multimedia, graphics and animation
+    * Show solutions for each
+1. Android Studio Project Walkthrough
 
-#### Homework
+#### WEEK 4 HOMEWORK
 
-* [Learn about AJAX](https://github.com/advanced-js/deck/tree/gh-pages/demos/ajax#readme)
-* [Mashup](https://github.com/advanced-js/mashup)
+* Read[something](https://github.com/)
 * Improve your previous assignments
+* Finish up and submit [FirstNameLastName_AndroidProjectFour](https://github.com/monigarrteam/androidprojectfour)
+* Add link, description & screenshot to your completed project on your:
+	* facebook profile.
+	* twitter profile
+	* linkedin profile
+	* youtube profile
+	* google profile
 
-### Class 5
+### WEEK 5 CLASS
 
-1. Present and code review Mashup projects
-1. Possible topics (vote?):
-    * Node.js
-        * Server "Hello World" (from [Node.js homepage](http://nodejs.org/))
-            * [HTTP module docs](http://nodejs.org/api/http.html)
-        * HTTP requests
-            * [Status codes](http://pretty-rfc.herokuapp.com/RFC2616#status.codes)
-            * Headers
-        * CommonJS?
-    * [Regular Expressions](https://github.com/advanced-js/deck/tree/gh-pages/demos/regex.html)
-        * Convert live input from a text area, e.g.
-            * Link Twitter handles
-            * Substitute select words for emoji, using [emoji-css](http://afeld.github.io/emoji-css/)
-    * Object-Oriented design
-    * [Code Retreat](http://coderetreat.org/facilitating/structure-of-a-coderetreat) – possible "problems":
-        * [Game of Life](http://coderetreat.org/gol)
-        * Tic Tac Toe
+1. Code review project 5
+1. Look at options for connectivity and cloud
+    * Show solutions for each
+1. Android Studio Project Walkthrough
 
-## Pairing Tips
+#### WEEK 5 HOMEWORK
 
-* Three people is possible, but two works best
-* Agree on an editor and environment that you're both comfortable with
-* The person who's less experienced/comfortable should have more keyboard time
-* Switch who's "driving" regularly
-* Make sure to save the code and send it to both people
+* Read[something](https://github.com/)
+* Improve your previous assignments
+* Finish up and submit [FirstNameLastName_AndroidProjectFive](https://github.com/monigarrteam/androidprojectfive)
+* Add link, description & screenshot to your completed project on your:
+	* facebook profile.
+	* twitter profile
+	* linkedin profile
+	* youtube profile
+	* google profile
+
+### WEEK 6 CLASS
+
+1. Code review project 6
+1. Look at options for location and maps
+    * Show solutions for each
+1. Android Studio Project Walkthrough
+
+#### WEEK 6 HOMEWORK
+
+* Read[something](https://github.com/)
+* Improve your previous assignments
+* Finish up and submit [FirstNameLastName_AndroidProjectOne](https://github.com/monigarrteam/androidprojectsix)
+* Add link, description & screenshot to your completed project on your:
+	* facebook profile.
+	* twitter profile
+	* linkedin profile
+	* youtube profile
+	* google profile
+
+### WEEK 7 CLASS
+
+1. Code review project 7
+1. Look at options for user info & sign-in
+    * Show solutions for each
+1. Android Studio Project Walkthrough
+
+#### WEEK 7 HOMEWORK
+
+* Read[something](https://github.com/)
+* Improve your previous assignments
+* Finish up and submit [FirstNameLastName_AndroidProjectOne](https://github.com/monigarrteam/androidprojectseven)
+* Add link, description & screenshot to your completed project on your:
+	* facebook profile.
+	* twitter profile
+	* linkedin profile
+	* youtube profile
+	* google profile
+
+### WEEK 8 CLASS
+
+1. Code review project 8
+1. Look at options for wearables, tv and auto
+    * Show solutions for each
+1. Android Studio Project Walkthrough
+
+#### WEEK 8 HOMEWORK
+
+* Read[something](https://github.com/)
+* Improve your previous assignments
+* Finish up and submit [FirstNameLastName_AndroidProjectEight](https://github.com/monigarrteam/androidprojectone)
+* Add link, description & screenshot to your completed project on your:
+	* facebook profile.
+	* twitter profile
+	* linkedin profile
+	* youtube profile
+	* google profile
+
+### WEEK 9 CLASS
+
+1. Code review project 9
+1. Look at options for google services
+    * Show solutions for each
+1. Android Studio Project Walkthrough
+
+#### WEEK 9 HOMEWORK
+
+* Read[something](https://github.com/)
+* Improve your previous assignments
+* Finish up and submit [FirstNameLastName_AndroidProjectOne](https://github.com/monigarrteam/androidprojectnine)
+* Add link, description & screenshot to your completed project on your:
+	* facebook profile.
+	* twitter profile
+	* linkedin profile
+	* youtube profile
+	* google profile
+
+
+### WEEK 10 CLASS
+
+1. Code review project 10
+1. Look at options for best practices
+    * Show solutions for each
+1. Android Studio Project Walkthrough
+
+#### WEEK 10 HOMEWORK
+
+* Read[something](https://github.com/)
+* Improve your previous assignments
+* Finish up and submit [FirstNameLastName_AndroidProjectOne](https://github.com/monigarrteam/androidprojectten)
+* Add link, description & screenshot to your completed project on your:
+	* facebook profile.
+	* twitter profile
+	* linkedin profile
+	* youtube profile
+	* google profile
+
+### WEEK 11 CLASS
+
+1. Code review project 11
+1. Look at options for ...
+    * Show solutions for each
+1. Android Studio Project Walkthrough
+
+#### WEEK 11 HOMEWORK
+
+* Read[something](https://github.com/)
+* Improve your previous assignments
+* Finish up and submit [FirstNameLastName_AndroidProjectOne](https://github.com/monigarrteam/androidprojecteleven)
+* Add link, description & screenshot to your completed project on your:
+	* facebook profile.
+	* twitter profile
+	* linkedin profile
+	* youtube profile
+	* google profile
+
+### WEEK 12 CLASS
+
+1. Code review project 12
+1. Look at options for polishing & finalizing student's portfolio
+    * Show solutions for each
+1. Android Studio Project Walkthrough
+
+#### WEEK 12 HOMEWORK
+
+* Read[something](https://github.com/)
+* Improve your previous assignments
+* Finish up and submit [FirstNameLastName_AndroidProjectOne](https://github.com/monigarrteam/androidprojecttwelve)
+* Add link, description & screenshot to your completed project on your:
+	* facebook profile
+	* twitter profile
+	* linkedin profile
+	* youtube profile
+	* google profile
+
 
 ## Resources
 
@@ -227,39 +369,25 @@ This class assumes you are confident with the following, but in case you need a 
 
 ### RECOMMENDED READING
 
-* [Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do) by Michael Fogus
-* [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) by @darcyclarke (for testing yourself)
-* [JavaScript Best Practices](http://www.thinkful.com/learn/javascript-best-practices-1/)
-* [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/) by @shichuan (thanks @iandrewfuchs)
-* [JavaScript Patterns](http://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752) by Stoyan Stephanov
-* [JavaScript Web Applications](http://www.amazon.com/JavaScript-Web-Applications-Alex-MacCaw/dp/144930351X/) by Alex MacCaw
+* [Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do)
+* [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
 #### SPECIFIC TOPICS
 
-* [Classical Inheritance in JavaScript](http://www.crockford.com/javascript/inheritance.html) by Douglas Crockford
-* [Partial Application in JavaScript](http://benalman.com/news/2012/09/partial-application-in-javascript/) by Ben Alman (thanks @michaelBenin)
-* [HTML5 Rocks slides](http://slides.html5rocks.com/)
-* [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) by Addy Osmani
+* [Developer.Android.com](http://developer.android.com)
 
-#### OTHER LISTS
+#### MORE ONLINE TRAINING
 
-* [JS: The Right Way](http://www.jstherightway.org/) (an overview of the JS landscape)
-* [Code School](https://www.codeschool.com/paths/javascript)
-* Thoughtbot's [Javascript Trail Map](https://upcase.com/javascript)
-* [How To Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
-* [Superhero.js](http://superherojs.com)
-* [Teach Yourself to Code](http://teachyourselftocode.com/javascript)
+* [YouTube Android Training](https://www.youtube.com/user/androiddevelopers)
+* [TreeHouse](http://referrals.trhou.se/monicapeters)
 
 ### TOOLS
 
-* Code Validation: [JSLint](http://jslint.com) / [JSHint](http://jshint.com)
 * Debugging:
-    * [Chrome Developer Tools](https://developer.chrome.com/devtools/index)
-        * [Official debugging tutorial](https://developer.chrome.com/extensions/tut_debugging)
-        * Tutorial: [JavaScript Diagnosis](http://www.macwright.org/2015/03/10/javascript-diagnosis.html)
-    * [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
-* Sharing Code: [gist.github.com](https://gist.github.com/)
-* Asking Questions: [Stack Overflow](http://stackoverflow.com/)
+    * [Testing Tools](http://developer.android.com/tools/testing/testing-tools.html)
+    * [Testing Best Practices](http://developer.android.com/training/testing.html)
+* Share Code: [gist.github.com](https://gist.github.com/)
+* Ask Questions: [Stack Overflow](http://stackoverflow.com/)
 
 #### GITHUB
 
@@ -281,7 +409,7 @@ This class assumes you are confident with the following, but in case you need a 
 * [Testing](https://coderwall.com/p/ntbixw)
 * [User Interface](http://developer.android.com/training/best-ui.html)
 * [Background Jobs](http://developer.android.com/training/best-background.html)
-* [Performanc](http://developer.android.com/training/best-performance.html)
+* [Performance](http://developer.android.com/training/best-performance.html)
 * [Security & Privacy](http://developer.android.com/training/best-security.html)
 
 
@@ -298,6 +426,7 @@ This class assumes you are confident with the following, but in case you need a 
 * [Android App Patterns](http://www.android-app-patterns.com/)
 * [Android Material Design](http://developer.android.com/design/index.html)
 * [Android Training](http://developer.android.com/training/index.html)
+* [Android Samples](http://developer.android.com/samples/index.html)
 
 ## GRADING
 
