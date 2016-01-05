@@ -95,8 +95,8 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 	* google profile
 * Add link, description & screenshot of your project:
 	* MoniGarr.com Google+ Community
-* Receive Peer Review.
-* Give Peer Review.
+* Receive Heuristic Peer Review.
+* Give Heuristic Peer Review.
 
 ### PROJECT 2
 
@@ -118,8 +118,8 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 	* google profile
 * Add link, description & screenshot of your project:
 	* MoniGarr.com Google+ Community
-* Receive Peer Review.
-* Give Peer Review.
+* Receive Heuristic Peer Review.
+* Give Heuristic Peer Review.
 
 ### PROJECT 3
 
@@ -141,8 +141,8 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 	* google profile
 * Add link, description & screenshot of your project:
 	* MoniGarr.com Google+ Community
-* Receive Peer Review.
-* Give Peer Review.
+* Receive Heuristic Peer Review.
+* Give Heuristic Peer Review.
 
 ### PROJECT 4
 
@@ -164,8 +164,8 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 	* google profile
 * Add link, description & screenshot of your project:
 	* MoniGarr.com Google+ Community
-* Receive Peer Review.
-* Give Peer Review.
+* Receive Heuristic Peer Review.
+* Give Heuristic Peer Review.
 
 
 ### PROJECT 5
@@ -188,8 +188,8 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 	* google profile
 * Add link, description & screenshot of your project:
 	* MoniGarr.com Google+ Community
-* Receive Peer Review.
-* Give Peer Review.
+* Receive Heuristic Peer Review.
+* Give Heuristic Peer Review.
 
 ### PROJECT 6
 
@@ -213,8 +213,8 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 	* google profile
 * Add link, description & screenshot of your project:
 	* MoniGarr.com Google+ Community
-* Receive Peer Review.
-* Give Peer Review.
+* Receive Heuristic Peer Review.
+* Give Heuristic Peer Review.
 
 #### PROJECT 7
 
@@ -235,8 +235,8 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 	* google profile
 * Add link, description & screenshot of your project:
 	* MoniGarr.com Google+ Community
-* Receive Peer Review.
-* Give Peer Review.
+* Receive Heuristic Peer Review.
+* Give Heuristic Peer Review.
 
 ### PROJECT 8
 
@@ -257,8 +257,8 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 	* google profile
 * Add link, description & screenshot of your project:
 	* MoniGarr.com Google+ Community
-* Receive Peer Review.
-* Give Peer Review.
+* Receive Heuristic Peer Review.
+* Give Heuristic Peer Review.
 
 ### PROJECT 9
 
@@ -282,8 +282,8 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 	* google profile
 * Add link, description & screenshot of your project:
 	* MoniGarr.com Google+ Community
-* Receive Peer Review.
-* Give Peer Review.
+* Receive Heuristic Peer Review.
+* Give Heuristic Peer Review.
 
 ### PROJECT 10
 
@@ -303,8 +303,8 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 	* google profile
 * Add link, description & screenshot of your project:
 	* MoniGarr.com Google+ Community
-* Receive Peer Review.
-* Give Peer Review.
+* Receive Heuristic Peer Review.
+* Give Heuristic Peer Review.
 
 ### PROJECT 11
 
@@ -325,8 +325,8 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 	* google profile
 * Add link, description & screenshot of your project:
 	* MoniGarr.com Google+ Community
-* Receive Peer Review.
-* Give Peer Review.
+* Receive Heuristic Peer Review.
+* Give Heuristic Peer Review.
 
 ### PROJECT 12
 
@@ -346,8 +346,8 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 	* google profile
 * Add link, description & screenshot of your project:
 	* MoniGarr.com Google+ Community
-* Receive Peer Review.
-* Give Peer Review.
+* Receive Heuristic Peer Review.
+* Give Heuristic Peer Review.
 
 
 ### PROJECT 13
@@ -368,8 +368,8 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 	* google profile
 * Add link, description & screenshot of your project:
 	* MoniGarr.com Google+ Community
-* Receive Peer Review.
-* Give Peer Review.
+* Receive Heuristic Peer Review.
+* Give Heuristic Peer Review.
 
 
 ### PROJECT 14
@@ -390,8 +390,8 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 	* google profile
 * Add link, description & screenshot of your project:
 	* MoniGarr.com Google+ Community
-* Receive Peer Review.
-* Give Peer Review.
+* Receive Heuristic Peer Review.
+* Give Heuristic Peer Review.
 
 ### PROJECT 15
 
@@ -411,8 +411,8 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 	* google profile
 * Add link, description & screenshot of your project:
 	* MoniGarr.com Google+ Community
-* Receive Peer Review.
-* Give Peer Review.
+* Receive Heuristic Peer Review.
+* Give Heuristic Peer Review.
 
 ### PROJECT 16
 
@@ -432,8 +432,8 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 	* google profile
 * Add link, description & screenshot of your project:
 	* MoniGarr.com Google+ Community
-* Receive Peer Review.
-* Give Peer Review.
+* Receive Heuristic Peer Review.
+* Give Heuristic Peer Review.
 
 ### WORKFLOW
 
