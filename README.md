@@ -1,23 +1,17 @@
 # android-syllabus -DRAFT-
-Syllabus for Android development training with MoniGarr.com 
+Android Development Training with MoniGarr.com 
 
-
-* **Course:** [AndroidDevMoniGarrFebruary2016, MoniGarr.com](http://www.MoniGarr.com)
-* **Instructor:** Monica Peters, [monigarr@yahoo.com](mailto:monigarr@yahoo.com)
-* **Need help?**
-    * Look through and create [issues](https://github.com/monigarrteam/android-syllabus/issues)
-   * [Email](mailto:monigarr@yahoo.com) for 1-on-1 help, or to set up a time to meet
 
 ## COURSE DESCRIPTION
 
-Learn how to develop an Android app with java and android studio in this online project based course. Topics include software installation, best practices, android ui, material design, java programming language, debugging and more. Discover some of the lesser-known useful features of android software development, such as how to improve your android app performance, security and stability provides the best end user experience available. Create Android apps for mobile phones, wearables and more using industry standard Android Studio.
+Learn how to develop MoniGarr.com Android apps with java and android studio. Topics include software installation, best practices, android ui, material design, java programming language, debugging and more. Discover some of the lesser-known useful features of android software development, such as how to improve your android app performance, security and stability provides the best end user experience available. Create Android apps for mobile phones, wearables and more using industry standard Android Studio.
 
 ## PREREQUISITES
-All of the following is required from you, BEFORE your first class.
+All of the following is required for you to develop Android apps.
 
-* Your Own Laptop & Android Device with Internet Service.
-* Your Own Social Network Profiles Setup for Class work & to share with entire class.
-	* Your profile avatar and details must be complete before your first class.
+* Your Own Laptop with Internet Service.
+* Your Own Android Device with Internet Service.
+* Your Own Social Network Profiles Setup and for sharing your MoniGarr.com Android work.
 	* Facebook profile: http://www.FaceBook.com
 	* Twitter profile: http://www.Twitter.com
 	* LinkedIn Profile: http://www.linkedin.com
@@ -32,34 +26,34 @@ All of the following is required from you, BEFORE your first class.
 
 ## COURSE OVERVIEW
 
-Dive into Android software development. Research, practice, testing and weekly projects will create student's public online portfolios with social networks. The focus will be on developing weekly android app projects that build on the previous weeks' work while helping the student create their own online branded portfolio to help gain future work as an android developer.
+Dive into Android software development. Research, practice, testing and android projects will create student's public online portfolios with social networks. The focus will be on developing weekly android app projects that build on the previous weeks' work while helping the student create their own online branded portfolio to help gain future work as an android developer.
 
-## WEEKLY ANDROID HOMEWORK / PROJECTS INCLUDE:
+## ANDROID HOMEWORK / PROJECTS INCLUDE:
 
-* Project 1: Intros, Schedules, Success Plan
-* Project 1: 1st App, Lifecycle, Dynamic UI
-* Project 2: Save Data, Interact, Permissions
-* Project 3: Content Sharing
-* Project 4: Multimedia, Graphics, Animation
-* Project 5: Connectivity, Cloud
-* Project 6: Location & Maps
-* Project 7: User Info & Sign-in
-* Project 8: Wearables, TV, Auto
-* Project 9: Google Services
-* Project 10: Best Practices
-* Project 11: Best Practices
-* Project 12: Best Practices
-* Project 13: Best Practices
+* Intro: Schedules and Your Success Plan
+* Project 1: 1st App, Android Lifecycle & Android Dynamic UI
+* Project 2: Save Data, Interact & Permissions
+* Project 3: Android Content Sharing
+* Project 4: Android Multimedia, Graphics & Animation
+* Project 5: Android Connectivity & Cloud
+* Project 6: Android Location & Maps
+* Project 7: Android User Info & Sign-in
+* Project 8: Android Wearables, TV & Auto
+* Project 9: Android Google Services
+* Project 10: Android Best Practices
+* Project 11: Android Best Practices
+* Project 12: Android Best Practices
+* Project 13: Android Best Practices
 
-Topics will be demonstrated through weekly live-code examples during scheduled video hangouts.
+Topics will be demonstrated with live-code examples in video tutorials, scheduled group video tutoring and scheduled 1 on 1 video tutoring.
 
 ## HOMEWORK/PROJECTS
 
-All your assignments are listed within the [Course Outline](#course-outline).
+All your assignments are listed in the following [Course Outline](#course-outline).
 
 ### WORKFLOW
 
-If you're using GitHub Desktop, [these instructions](https://help.github.com/desktop/guides/contributing/) will help explain the Git/GitHub concepts. Here are the overall steps:
+If you're using GitHub Desktop, [these instructions](https://help.github.com/desktop/guides/contributing/) will explain the Git/GitHub concepts. The overall steps:
 
 1. Fork the repository for the exercise/project (found under [github.com/monigarrteam](https://github.com/monigarrteam/projectname)).
 1. Clone the repository to your computer.  $git clone http://www.urltoyourownrepository.com
