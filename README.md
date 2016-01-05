@@ -66,7 +66,7 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 
 ## COURSE OUTLINE
 
-### PROJECT 1 TRAINING
+### PROJECT 1
 
 1. Video: homework expectations
 1. Video: custom android app expectations
@@ -80,9 +80,6 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
     * Android Studio
     * Git/GitHub
     * Social Network Profiles: github, fb, twitter, linkedin, youtube channel
-
-#### PROJECT 1 HOMEWORK
-
 * Read [Building Your First App](http://developer.android.com/training/basics/firstapp/index.html) 
 	* Test [Your First App]()
 * Read [Android Lifecycle](http://developer.android.com/training/basics/activity-lifecycle/index.html) 
@@ -102,14 +99,11 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 	* Receive Peer Review.
 	* Give Peer Review.
 
-### PROJECT 2 TRAINING
+### PROJECT 2
 
 1. Video: code review
 1. Video: Dynamic UI and Android Design
 1. Video: Android Studio Project Walkthrough
-
-#### PROJECT 2 HOMEWORK
-
 * Read [Android Dynamic UI](http://developer.android.com/training/basics/fragments/index.html)
 * Test [Dynamic UI]()
 * Read [Android Design](http://developer.android.com/design/index.html) 
@@ -129,13 +123,11 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 	* Receive Peer Review.
 	* Give Peer Review.
 
-### PROJECT 3 TRAINING
+### PROJECT 3
 
 1. Video: Code Review
 1. Video: saving data, interacting with other apps
 1. Video: android studio project walkthrough
-#### PROJECT 3 HOMEWORK
-
 * Read [Android Saving Data](http://developer.android.com/training/basics/data-storage/index.html) 
 * Test [Saving Data]()
 * Read [Android Interacting with Other Apps](http://developer.android.com/training/basics/intents/index.html) 
@@ -155,21 +147,15 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 	* Receive Peer Review.
 	* Give Peer Review.
 
-### PROJECT 4 TRAINING
+### PROJECT 4
 
 1. Video: Code review project 4
 1. Video: options for permissions & content sharing
 1. Video: Android Studio Project Walkthrough
-
-#### PROJECT 4 HOMEWORK
-
 * Read [Android Setting Permissions](http://developer.android.com/training/permissions/index.html) 
 * Test [Permissions]()
 * Read [Android Content Sharing](http://developer.android.com/training/building-content-sharing.html) 
 * Test [Content Sharing]()
-
-##### PROJECT 4 CUSTOM ANDROID APP
-
 * Complete your Custom Android App & Push to your Forked Code Repository.
 ** Include Features: permissions & content sharing
 * Submit Custom Android App with PR to validate code passes requirements (before thursday midnight if you want feedback).
@@ -185,21 +171,15 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 * Give Peer Review.
 
 
-### PROJECT 5 TRAINING
+### PROJECT 5
 
 1. Video: Code review project 5
 1. Video: options for multimedia, graphics & animation
 1. Video: Android Studio Project Walkthrough
-
-#### PROJECT 5 HOMEWORK
-
 * Read [Android Multimedia](http://developer.android.com/training/building-multimedia.html) 
-* Test [MultiMeida]()
+* Test [MultiMedia]()
 * Read [Android Graphics & Animation](http://developer.android.com/training/building-graphics.html) 
 * Test [Graphics & Animation]()
-
-##### PROJECT 5 CUSTOM ANDROID APP
-
 * Complete your Custom Android App & Push to your Forked Code Repository.
 ** Include Features: multimedia, graphics, animation
 * Submit Custom Android App with PR to validate code passes requirements (before thursday midnight if you want feedback).
@@ -214,32 +194,36 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 * Receive Peer Review.
 * Give Peer Review.
 
-### PROJECT 6 TRAINING
+### PROJECT 6
 
 1. Video: Code review project 6
 1. Video: options for connectivity, cloud
 1. Video: Android Studio Project Walkthrough
-
-#### PROJECT 6 HOMEWORK
-
 * Read [Android Connectivity & Cloud](http://developer.android.com/training/building-connectivity.html) 
 * Test [Connectivity]() 
 * Test [Cloud]()
-
-### PROJECT 7 TRAINING
-
 1. Video: Code review project 7
 1. Video: options for location, maps
 1. Video: Android Studio Project Walkthrough
+* Complete your Custom Android App & Push to your Forked Code Repository.
+** Include Features: connectivity & cloud
+* Submit Custom Android App with PR to validate code passes requirements (before thursday midnight if you want feedback).
+* Add link, description & screenshot of your project on your:
+	* facebook profile.
+	* twitter profile
+	* linkedin profile
+	* youtube profile
+	* google profile
+* Add link, description & screenshot of your project:
+	* MoniGarr.com Google+ Community
+* Receive Peer Review.
+* Give Peer Review.
 
-#### PROJECT 7 HOMEWORK
+#### PROJECT 7
 
 * Read [Android Location & Maps](http://developer.android.com/training/building-location.html)
 * Test [Location]() 
 * Test [Maps]()
-
-##### PROJECT 7 CUSTOM ANDROID APP
-
 * Complete your Custom Android App & Push to your Forked Code Repository.
 ** Include Features: location, maps
 * Submit Custom Android App with PR to validate code passes requirements (before thursday midnight if you want feedback).
@@ -254,35 +238,39 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 * Receive Peer Review.
 * Give Peer Review.
 
-### PROJECT 8 TRAINING
+### PROJECT 8
 
 1. Video: Code review project 8
 1. Video: options for user info, sign in
 1. Video: Android Studio Project Walkthrough
-
-#### PROJECT 8 HOMEWORK
-
 * Read [Android user info & sign in](http://developer.android.com/training/building-userinfo.html) 
 * Test [User Info]() 
 * Test [Sign In]()
+* Complete your Custom Android App & Push to your Forked Code Repository.
+** Include Features: user info & sign in
+* Submit Custom Android App with PR to validate code passes requirements (before thursday midnight if you want feedback).
+* Add link, description & screenshot of your project on your:
+	* facebook profile.
+	* twitter profile
+	* linkedin profile
+	* youtube profile
+	* google profile
+* Add link, description & screenshot of your project:
+	* MoniGarr.com Google+ Community
+* Receive Peer Review.
+* Give Peer Review.
 
-### PROJECT 9 TRAINING
+### PROJECT 9
 
 1. Video: Code review project 9
 1. Video: options for wearables, tv & auto
 1. Video: Android Studio Project Walkthrough
-
-#### PROJECT 9 HOMEWORK
-
 * Read [Android Wearables](http://developer.android.com/training/building-wearables.html) 
 * Test [Wearables]()
 * Read [Android TV](http://developer.android.com/training/tv/index.html) 
 * Test [TV]()
 * Read [Android Auto](http://developer.android.com/training/auto/index.html) 
 * Test [Auto]()
-
-##### PROJECT 9 CUSTOM ANDROID APP
-
 * Complete your Custom Android App & Push to your Forked Code Repository.
 ** Include Features: wearables, tv and auto
 * Submit Custom Android App with PR to validate code passes requirements (before thursday midnight if you want feedback).
@@ -297,19 +285,13 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 * Receive Peer Review.
 * Give Peer Review.
 
-### PROJECT 10 TRAINING
+### PROJECT 10
 
 1. Video: Code review project 10
 1. Video: options for Google Services
 1. Video: Android Studio Project Walkthrough
-
-#### PROJECT 10 HOMEWORK
-
 * Read [Google Services](http://developer.android.com/training/best-ux.html) 
 * Test [Google Services]()
-
-##### PROJECT 10 CUSTOM ANDROID APP
-
 * Complete your Custom Android App & Push to your Forked Code Repository.
 ** Include Features: google services
 * Submit Custom Android App with PR to validate code passes requirements (before thursday midnight if you want feedback).
@@ -324,20 +306,14 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 * Receive Peer Review.
 * Give Peer Review.
 
-### PROJECT 11 TRAINING
+### PROJECT 11
 
 1. Video: Code review project 11
 1. Video: options for Best Practices User Interfaces
     * Show solutions for each
 1. Video: Android Studio Project Walkthrough
-
-#### PROJECT 11 HOMEWORK
-
 * Read [UI](http://developer.android.com/training/best-ui.html) 
 * Test [UI Best Practices]
-
-##### PROJECT 11 CUSTOM ANDROID APP
-
 * Complete your Custom Android App & Push to your Forked Code Repository.
 ** Include Features: ui
 * Submit Custom Android App with PR to validate code passes requirements (before thursday midnight if you want feedback).
@@ -352,19 +328,13 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 * Receive Peer Review.
 * Give Peer Review.
 
-### PROJECT 12 TRAINING
+### PROJECT 12
 
 1. Video: Code review project 12
 1. Video: options for Best Practices Background Jobs
 1. Video: Android Studio Project Walkthrough
-
-#### PROJECT 12 HOMEWORK
-
 * Read [Background Jobs](http://developer.android.com/training/best-background.html) 
 * Test [Best Practices Background Jobs]()
-
-##### PROJECT 12 CUSTOM ANDROID APP
-
 * Complete your Custom Android App & Push to your Forked Code Repository.
 ** Include Features: background jobs
 * Submit Custom Android App with PR to validate code passes requirements (before thursday midnight if you want feedback).
@@ -380,19 +350,13 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 * Give Peer Review.
 
 
-### PROJECT 13 TRAINING
+### PROJECT 13
 
 1. Video: Code review project 13
 1. Video: solutions for Best Practices Performance
 1. Video: Android Studio Project Walkthrough
-
-#### PROJECT 13 HOMEWORK
-
 * Read [Performance](http://developer.android.com/training/best-performance.html) 
 * Test [Best Practices Performance]()
-
-##### PROJECT 13 CUSTOM ANDROID APP
-
 * Complete your Custom Android App & Push to your Forked Code Repository.
 ** Include Features: performance
 * Submit Custom Android App with PR to validate code passes requirements (before thursday midnight if you want feedback).
@@ -408,19 +372,13 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 * Give Peer Review.
 
 
-### PROJECT 14 TRAINING
+### PROJECT 14
 
 1. Video: Code review project 14
 1. Video: options for Best Practices Security & Privacy
 1. Video: Android Studio Project Walkthrough
-
-#### PROJECT 14 HOMEWORK
-
 * Read [Security & Privacy](http://developer.android.com/training/best-performance.html) 
 * Test [Best Practices Security & Privacy]()
-
-##### PROJECT 14 CUSTOM ANDROID APP
-
 * Complete your Custom Android App & Push to your Forked Code Repository.
 ** Include Features: security & privacy
 * Submit Custom Android App with PR to validate code passes requirements (before thursday midnight if you want feedback).
@@ -435,19 +393,13 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 * Receive Peer Review.
 * Give Peer Review.
 
-### PROJECT 15 TRAINING
+### PROJECT 15
 
 1. Video: Code review project 15
 1. Video: options for Best Practices Testing
 1. Video: Android Studio Project Walkthrough
-
-#### PROJECT 15 HOMEWORK
-
 * Read [Testing](http://developer.android.com/training/testing.html)* Improve your previous assignments 
 * Test [Best Practices Android Testing]()
-
-##### PROJECT 15 CUSTOM ANDROID APP
-
 * Complete your Custom Android App & Push to your Forked Code Repository.
 ** Include Features: android testing
 * Submit Custom Android App with PR to validate code passes requirements (before thursday midnight if you want feedback).
@@ -462,19 +414,13 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 * Receive Peer Review.
 * Give Peer Review.
 
-### PROJECT 16 TRAINING
+### PROJECT 16
 
 1. Video: Code review project 16
 1. Video: options for Best Practices interaction & engagement
 1. Video: Android Studio Project Walkthrough
-
-#### PROJECT 16 HOMEWORK
-
 * Read [Interaction & Engagement](http://developer.android.com/training/best-ux.html) 
 * Test [Interactions & Engagement]()
-
-##### PROJECT 16 CUSTOM ANDROID APP
-
 * Complete your Custom Android App & Push to your Forked Code Repository.
 ** Include Features: interaction and engagement
 * Submit Custom Android App with PR to validate code passes requirements (before thursday midnight if you want feedback).
