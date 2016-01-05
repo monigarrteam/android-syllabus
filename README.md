@@ -64,8 +64,6 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 
 ## HOMEWORK/PROJECTS
 
-All training, homework and custom android project assignments are listed in the following [Course Outline](#course-outline).
-
 ## COURSE OUTLINE
 
 ### PROJECT 1 TRAINING
@@ -87,14 +85,10 @@ All training, homework and custom android project assignments are listed in the 
 
 #### PROJECT 1 HOMEWORK
 
-* Read: [Building Your First App](http://developer.android.com/training/basics/firstapp/index.html)
-** Test: [Your First App]()
-* Read [Android Lifecycle](http://developer.android.com/training/basics/activity-lifecycle/index.html)
-** Test: [Lifecycle]()
-* Read [Android Dynamic UI](http://developer.android.com/training/basics/fragments/index.html)
-** Test [Dynamic UI]()
-* Read [Android Design](http://developer.android.com/design/index.html)
-** Test [Design]()
+* Read: [Building Your First App](http://developer.android.com/training/basics/firstapp/index.html) Test [Your First App]()
+* Read [Android Lifecycle](http://developer.android.com/training/basics/activity-lifecycle/index.html) Test [Lifecycle]()
+* Read [Android Dynamic UI](http://developer.android.com/training/basics/fragments/index.html) Test [Dynamic UI]()
+* Read [Android Design](http://developer.android.com/design/index.html) Test [Design]()
 
 ##### PROJECT 1 CUSTOM ANDROID APP
 
@@ -124,12 +118,9 @@ All training, homework and custom android project assignments are listed in the 
 
 #### PROJECT 2 HOMEWORK
 
-1. * Read [Android Saving Data](http://developer.android.com/training/basics/data-storage/index.html)
-** Test: [Saving Data]()
-1. * Read [Android Interacting with Other Apps](http://developer.android.com/training/basics/intents/index.html)
-** Test: [Interacting]()
-1. * Read [Android Setting Permissions](http://developer.android.com/training/permissions/index.html)
-** Test: [Permissions]()
+1. * Read [Android Saving Data](http://developer.android.com/training/basics/data-storage/index.html) Test: [Saving Data]()
+1. * Read [Android Interacting with Other Apps](http://developer.android.com/training/basics/intents/index.html) Test: [Interacting]()
+1. * Read [Android Setting Permissions](http://developer.android.com/training/permissions/index.html) Test: [Permissions]()
 
 ##### PROJECT 2 CUSTOM ANDROID APP
 
@@ -155,8 +146,7 @@ All training, homework and custom android project assignments are listed in the 
 
 #### PROJECT 3 HOMEWORK
 
-* Read [Android Content Sharing](http://developer.android.com/training/building-content-sharing.html)
-** Test [Content Sharing]()
+* Read [Android Content Sharing](http://developer.android.com/training/building-content-sharing.html) Test [Content Sharing]()
 
 ##### PROJECT 3 CUSTOM ANDROID APP
 
@@ -183,10 +173,8 @@ All training, homework and custom android project assignments are listed in the 
 
 #### PROJECT 4 HOMEWORK
 
-* Read[Android Multimedia](http://developer.android.com/training/building-multimedia.html)
-** Test [MultiMeida]()
-* Read [Android Graphics & Animation](http://developer.android.com/training/building-graphics.html)
-** Test [Graphics & Animation]()
+* Read[Android Multimedia](http://developer.android.com/training/building-multimedia.html) Test [MultiMeida]()
+* Read [Android Graphics & Animation](http://developer.android.com/training/building-graphics.html) Test [Graphics & Animation]()
 
 ##### PROJECT 4 CUSTOM ANDROID APP
 
@@ -214,9 +202,7 @@ All training, homework and custom android project assignments are listed in the 
 
 #### PROJECT 5 HOMEWORK
 
-* Read[Android Connectivity & Cloud](http://developer.android.com/training/building-connectivity.html)
-** Test[Connectivity]()
-** Test[Cloud]()
+* Read[Android Connectivity & Cloud](http://developer.android.com/training/building-connectivity.html) Test[Connectivity]() Test[Cloud]()
 
 ##### PROJECT 5 CUSTOM ANDROID APP
 
@@ -243,9 +229,7 @@ All training, homework and custom android project assignments are listed in the 
 
 #### PROJECT 6 HOMEWORK
 
-* Read[Android Location & Maps](http://developer.android.com/training/building-location.html)
-** Test[Location]()
-** Test[Maps]()
+* Read[Android Location & Maps](http://developer.android.com/training/building-location.html) Test[Location]() Test[Maps]()
 
 ### PROJECT 7 TRAINING
 
@@ -256,9 +240,7 @@ All training, homework and custom android project assignments are listed in the 
 
 #### PROJECT 7 HOMEWORK
 
-* Read[Android user info & sign in](http://developer.android.com/training/building-userinfo.html)
-** Test[User Info]()
-** Test[Sign In]()
+* Read[Android user info & sign in](http://developer.android.com/training/building-userinfo.html) Test[User Info]() Test[Sign In]()
 
 ##### PROJECT 7 CUSTOM ANDROID APP
 
@@ -285,8 +267,7 @@ All training, homework and custom android project assignments are listed in the 
 
 #### PROJECT 8 HOMEWORK
 
-* Read[something](https://www...)
-** Test[]()
+* Read[something](https://www...) Test[]()
 
 ### PROJECT 9 TRAINING
 
@@ -297,12 +278,9 @@ All training, homework and custom android project assignments are listed in the 
 
 #### PROJECT 9 HOMEWORK
 
-* Read[Android Wearables](http://developer.android.com/training/building-wearables.html)
-** Test[Wearables]()
-* Read [Android TV](http://developer.android.com/training/tv/index.html)
-** Test[TV]()
-* Read [Android Auto](http://developer.android.com/training/auto/index.html)
-** Test[Auto]()
+* Read[Android Wearables](http://developer.android.com/training/building-wearables.html) Test [Wearables]()
+* Read [Android TV](http://developer.android.com/training/tv/index.html) Test [TV]()
+* Read [Android Auto](http://developer.android.com/training/auto/index.html) Test [Auto]()
 
 ##### PROJECT 9 CUSTOM ANDROID APP
 
@@ -330,8 +308,7 @@ All training, homework and custom android project assignments are listed in the 
 
 #### PROJECT 10 HOMEWORK
 
-* Read[Interaction & Engagement](http://developer.android.com/training/best-ux.html)
-** Test[Interactions & Engagement]()
+* Read[Interaction & Engagement](http://developer.android.com/training/best-ux.html) Test [Interactions & Engagement]()
 
 ##### PROJECT 10 CUSTOM ANDROID APP
 
@@ -358,8 +335,7 @@ All training, homework and custom android project assignments are listed in the 
 
 #### PROJECT 11 HOMEWORK
 
-* Read [UI](http://developer.android.com/training/best-ui.html)
-** Test [ui]
+* Read [UI](http://developer.android.com/training/best-ui.html) Test [UI Best Practices]
 
 ##### PROJECT 11 CUSTOM ANDROID APP
 
@@ -386,8 +362,7 @@ All training, homework and custom android project assignments are listed in the 
 
 #### PROJECT 12 HOMEWORK
 
-* Read [Background Jobs](http://developer.android.com/training/best-background.html)
-** Test[Background Jobs]()
+* Read [Background Jobs](http://developer.android.com/training/best-background.html) Test[Best Practices Background Jobs]()
 
 ##### PROJECT 12 CUSTOM ANDROID APP
 
@@ -415,8 +390,7 @@ All training, homework and custom android project assignments are listed in the 
 
 #### PROJECT 13 HOMEWORK
 
-* Read [Performance](http://developer.android.com/training/best-performance.html)
-** Test[Performance]()
+* Read [Performance](http://developer.android.com/training/best-performance.html) Test[Best Practices Performance]()
 
 ##### PROJECT 13 CUSTOM ANDROID APP
 
@@ -444,8 +418,7 @@ All training, homework and custom android project assignments are listed in the 
 
 #### PROJECT 14 HOMEWORK
 
-* Read [Security & Privacy](http://developer.android.com/training/best-performance.html)
-** Test [Security & Privacy]()
+* Read [Security & Privacy](http://developer.android.com/training/best-performance.html) Test [Best Practices Security & Privacy]()
 
 ##### PROJECT 14 CUSTOM ANDROID APP
 
@@ -472,8 +445,7 @@ All training, homework and custom android project assignments are listed in the 
 
 #### PROJECT 15 HOMEWORK
 
-* Read [Testing](http://developer.android.com/training/testing.html)* Improve your previous assignments
-** Test [android testing]()
+* Read [Testing](http://developer.android.com/training/testing.html)* Improve your previous assignments Test [Best Practices Android Testing]()
 
 ##### PROJECT 15 CUSTOM ANDROID APP
 
