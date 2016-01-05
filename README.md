@@ -61,7 +61,7 @@ The following is required to learn how to develop Android apps with MoniGarr.com
 * Project 19: Android Game FPS
 * Project 20: Android Game ...
 
-Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be scheduled with monigarr@yahoo.com in advance.
+Each project includes video tutorials, reading and homework for a one week sprint. Individual & group tutoring can be scheduled with monigarr@yahoo.com in advance.
 
 ## HOMEWORK/PROJECTS
 
