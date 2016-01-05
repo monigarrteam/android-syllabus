@@ -408,15 +408,11 @@ Your solution will also be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAM
 
 This class assumes you are confident with the following, but in case you need a brush-up...
 
-* Codecademy – [JavaScript](https://www.codecademy.com/learn/javascript) and [jQuery](https://www.codecademy.com/learn/jquery)
-* [Eloquent JavaScript](http://eloquentjavascript.net/index.html) by Marijn Haverbeke, Chapters 1-5
-* [Want to learn JavaScript in 2015?](https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225)
-* see also – [Other Lists](#other-lists)
+* 
 
 ### RECOMMENDED READING
 
-* [Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do)
-* [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+* 
 
 #### SPECIFIC TOPICS
 
