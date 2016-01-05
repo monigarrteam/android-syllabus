@@ -537,29 +537,18 @@ Your solution will be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAME`.  
 
 ### REQUIREMENTS
 
-* [Travis CI](https://docs.travis-ci.com/) build must pass.
-* Must practice "good programming style"
+* GitHub Pull Request must pass.
+* Practice "good programming style"
     * Functions should be "short" (see [Sandi Metz's rules for developers](https://robots.thoughtbot.com/sandi-metz-rules-for-developers)).
     * Optimize for Readability.
         * ["Programs must be written for people to read, and only incidentally for machines to execute." -Harold Abelson](https://www.goodreads.com/quotes/9168-programs-must-be-written-for-people-to-read-and-only)
-    * Avoid using anonymous callbacks within other functions, especially if the callback is more than one or two lines.
-    * For projects, use Object-Oriented Programming.
+    * Avoid anonymous callbacks within other functions, especially if the callback is more than one or two lines.
+    * Use Object-Oriented Programming.
 * Any borrowed code must be properly [annotated](http://documentup.com/advanced-js/syllabus#statements-on-plagiarism/instructor).
 * Bonus Points for:
-    * [Unit Testing with 50% or more code coverage]
+    * [Unit Testing with 30% or more code coverage]
     * [Optimization Techniques]
     * [Creativity] as long as requirements are fulfilled
-
-### ANDROID DEVELOPMENT INDUSTRY RESOURCES
-
-* [Android Studio Install](http://developer.android.com/sdk/index.html)
-* [Android Developer Resources](http://developer.android.com)
-* Git and GitHub
-    * [Official GitHub Help](https://help.github.com/)
-    * [Recommended resources](http://hackerhours.org/resources.html#github)
-* GitHub Pages
-    * [Official site](https://pages.github.com/)
-    * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
 
 ### TOOLS
 
@@ -568,7 +557,7 @@ Your solution will be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAME`.  
     * [Testing Best Practices](http://developer.android.com/training/testing.html)
 * Share Code: [gist.github.com](https://gist.github.com/)
 * Ask Questions: [Stack Overflow](http://stackoverflow.com/)
-* [Browxy](http://www.browxy.com/) (recommended)
+* [Browxy](http://www.browxy.com/)
 * [rawgithub.com](http://rawgit.com/)
 
 #### BEST PRACTICES
@@ -581,8 +570,16 @@ Your solution will be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAME`.  
 * [Security & Privacy](http://developer.android.com/training/best-security.html)
 * [Git Basics](http://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 
-### REFERENCE
+### RESOURCES
 
+* [Android Studio Install](http://developer.android.com/sdk/index.html)
+* [Android Developer Resources](http://developer.android.com)
+* Git and GitHub
+    * [Official GitHub Help](https://help.github.com/)
+    * [Recommended resources](http://hackerhours.org/resources.html#github)
+* GitHub Pages
+    * [Official site](https://pages.github.com/)
+    * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
 * [Pure Android](http://developer.android.com/design/patterns/pure-android.html)
 * [Android Studio](http://developer.android.com/sdk/index.html)
 * [Android Activity Lifecycle](http://developer.android.com/training/basics/activity-lifecycle/index.html)
