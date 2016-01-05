@@ -323,7 +323,7 @@ Your solution will also be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAM
     * Show solutions for each
 1. Android Studio Project Walkthrough
 
-#### WEEK 12 HOMEWORK
+#### PROJECT 12 HOMEWORK
 
 * Read [Background Jobs](http://developer.android.com/training/best-background.html)
 * Finish up and submit [FirstNameLastName_AndroidProject12](https://github.com/monigarrteam/androidproject12)
@@ -359,7 +359,7 @@ Your solution will also be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAM
     * Show solutions for each
 1. Android Studio Project Walkthrough
 
-#### WEEK 14 HOMEWORK
+#### PROJECT 14 HOMEWORK
 
 * Read [Security & Privacy](http://developer.android.com/training/best-performance.html)
 * Finish up and submit [FirstNameLastName_AndroidProject14](https://github.com/monigarrteam/androidproject14)
@@ -370,14 +370,14 @@ Your solution will also be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAM
 	* youtube profile
 	* google profile
 
-### PROJECT 12 CLASS
+### PROJECT 15 CLASS
 
 1. Code review project 15
 1. Look at options for Best Practices Testing
     * Show solutions for each
 1. Android Studio Project Walkthrough
 
-#### WEEK 15 HOMEWORK
+#### PROJECT 15 HOMEWORK
 
 * Read [Testing](http://developer.android.com/training/testing.html)* Improve your previous assignments
 * Finish up and submit [FirstNameLastName_AndroidProject15](https://github.com/monigarrteam/androidproject15)
@@ -388,29 +388,19 @@ Your solution will also be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAM
 	* youtube profile
 	* google profile
 
-
 ## Resources
 
 ### Required Reading
 
 * [Android Studio Install](http://google-styl)
-* [Android Developer](http://bonsaiden.github.com/JavaScript-Garden/)
-* [Git](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
-* [Github](http://blog.parse.com/learn/engineering/whats-so-great-about-javascript-promises/)
+* [Android Developer](http://developer.android.com)
+* Git and GitHub
+    * [Official GitHub Help](https://help.github.com/)
+    * [Recommended resources](http://hackerhours.org/resources.html#github)
+* GitHub Pages
+    * [Official site](https://pages.github.com/)
+    * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
 
-### BEGINNER MATERIALS
-
-This class assumes you are confident with the following, but in case you need a brush-up...
-
-* 
-
-### RECOMMENDED READING
-
-* 
-
-#### SPECIFIC TOPICS
-
-* [Developer.Android.com](http://developer.android.com)
 
 #### MORE ONLINE TRAINING
 
@@ -424,15 +414,6 @@ This class assumes you are confident with the following, but in case you need a 
     * [Testing Best Practices](http://developer.android.com/training/testing.html)
 * Share Code: [gist.github.com](https://gist.github.com/)
 * Ask Questions: [Stack Overflow](http://stackoverflow.com/)
-
-#### GITHUB
-
-* Git and GitHub
-    * [Official GitHub Help](https://help.github.com/)
-    * [Recommended resources](http://hackerhours.org/resources.html#github)
-* GitHub Pages
-    * [Official site](https://pages.github.com/)
-    * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
 
 #### SANDBOXES
 
@@ -455,26 +436,22 @@ This class assumes you are confident with the following, but in case you need a 
 * [Android Studio](http://developer.android.com/sdk/index.html)
 * [Android Activity Lifecycle](http://developer.android.com/training/basics/activity-lifecycle/index.html)
 * [API Guides](http://developer.android.com/guide/index.html)
-
-### MORE EXAMPLES
-
 * [Android App Patterns](http://www.android-app-patterns.com/)
 * [Android Material Design](http://developer.android.com/design/index.html)
 * [Android Training](http://developer.android.com/training/index.html)
 * [Android Samples](http://developer.android.com/samples/index.html)
 
-## GRADING
+## GRADING & VIDEO FEEDBACK
 
-* Class Participation – 30%
-* Homework – 70%
+* Project Completion 100%
 
 ## STATEMENTS ON PLAGIARISM
 
-Plagiarism is a form of fraud.  The definition of plagiarism is as follows: "Plagiarism is presenting someone else's work as though it were one's own.  More specifically, plagiarism is to present as one's own words quoted without quotation marks from another writer; a paraphrased passage from another writer’s work; or facts or ideas gathered, organized, and reported by someone else, orally and/or in writing.  Since plagiarism is a matter of fact, not of the student's intention, it is crucial that acknowledgement of the sources be accurate and complete.  Even where there is not a conscious intention to deceive, the failure to make appropriate acknowledgement constitutes plagiarism.  Penalties for plagiarism range from failure for an assignment or course to dismissal from the course.
+Plagiarism is a form of fraud.  The definition of plagiarism is as follows: "Plagiarism is presenting someone else's work as though it were one's own.  More specifically, plagiarism is to present as one's own words quoted without quotation marks from another writer; a paraphrased passage from another writer’s work; or facts or ideas gathered, organized, and reported by someone else, orally and/or in writing.  Since plagiarism is a matter of fact, not of the student's intention, it is crucial that acknowledgement of the sources be accurate and complete.  Even where there is not a conscious intention to deceive, the failure to make appropriate acknowledgement constitutes plagiarism.
 
 ### INSTRUCTOR
 
-Reuse and building on other ideas and code are major parts of modern software development. Each new generation of software engineers do build on the shoulders of current and past giants. As a professional you rarely write anything from scratch.  This class is structured so that all solutions are public.  You are encouraged to learn from the work of your peers. People who are copying-and-pasting solutions without challenging themselves & understanding the course materials are wasting their own time and money taking this course.
+Reuse and building on other ideas and code are major parts of modern software development. Each new generation of software engineers do build on the shoulders of current and past giants. As a professional you rarely write anything from scratch.  This class is structured so that all solutions are public.  You are encouraged to learn from the work of your peers. People who copy-and-paste solutions without challenging themselves & understanding the content are wasting their own time and money.
 
 Please respect the terms of use and/or license of any code you find. If you reimplement or duplicate an algorithm or code from elsewhere, credit the original source with an inline comment.
 
