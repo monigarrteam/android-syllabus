@@ -85,10 +85,10 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 
 #### PROJECT 1 HOMEWORK
 
-* Read: [Building Your First App](http://developer.android.com/training/basics/firstapp/index.html) Test [Your First App]()
-* Read [Android Lifecycle](http://developer.android.com/training/basics/activity-lifecycle/index.html) Test [Lifecycle]()
-* Read [Android Dynamic UI](http://developer.android.com/training/basics/fragments/index.html) Test [Dynamic UI]()
-* Read [Android Design](http://developer.android.com/design/index.html) Test [Design]()
+* Read: [Building Your First App](http://developer.android.com/training/basics/firstapp/index.html) 
+* Test [Your First App]()
+* Read [Android Lifecycle](http://developer.android.com/training/basics/activity-lifecycle/index.html) 
+* Test [Lifecycle]()
 
 ##### PROJECT 1 CUSTOM ANDROID APP
 
@@ -118,9 +118,10 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 
 #### PROJECT 2 HOMEWORK
 
-1. * Read [Android Saving Data](http://developer.android.com/training/basics/data-storage/index.html) Test: [Saving Data]()
-1. * Read [Android Interacting with Other Apps](http://developer.android.com/training/basics/intents/index.html) Test: [Interacting]()
-1. * Read [Android Setting Permissions](http://developer.android.com/training/permissions/index.html) Test: [Permissions]()
+* Read [Android Dynamic UI](http://developer.android.com/training/basics/fragments/index.html)
+* Test [Dynamic UI]()
+* Read [Android Design](http://developer.android.com/design/index.html) 
+* Test [Design]()
 
 ##### PROJECT 2 CUSTOM ANDROID APP
 
@@ -146,7 +147,10 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 
 #### PROJECT 3 HOMEWORK
 
-* Read [Android Content Sharing](http://developer.android.com/training/building-content-sharing.html) Test [Content Sharing]()
+* Read [Android Saving Data](http://developer.android.com/training/basics/data-storage/index.html) 
+* Test [Saving Data]()
+* Read [Android Interacting with Other Apps](http://developer.android.com/training/basics/intents/index.html) 
+* Test [Interacting]()
 
 ##### PROJECT 3 CUSTOM ANDROID APP
 
@@ -173,8 +177,10 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 
 #### PROJECT 4 HOMEWORK
 
-* Read[Android Multimedia](http://developer.android.com/training/building-multimedia.html) Test [MultiMeida]()
-* Read [Android Graphics & Animation](http://developer.android.com/training/building-graphics.html) Test [Graphics & Animation]()
+* Read [Android Setting Permissions](http://developer.android.com/training/permissions/index.html) 
+* Test [Permissions]()
+* Read [Android Content Sharing](http://developer.android.com/training/building-content-sharing.html) 
+* Test [Content Sharing]()
 
 ##### PROJECT 4 CUSTOM ANDROID APP
 
@@ -202,7 +208,10 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 
 #### PROJECT 5 HOMEWORK
 
-* Read[Android Connectivity & Cloud](http://developer.android.com/training/building-connectivity.html) Test[Connectivity]() Test[Cloud]()
+* Read[Android Multimedia](http://developer.android.com/training/building-multimedia.html) 
+* Test [MultiMeida]()
+* Read [Android Graphics & Animation](http://developer.android.com/training/building-graphics.html) 
+* Test [Graphics & Animation]()
 
 ##### PROJECT 5 CUSTOM ANDROID APP
 
@@ -229,7 +238,9 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 
 #### PROJECT 6 HOMEWORK
 
-* Read[Android Location & Maps](http://developer.android.com/training/building-location.html) Test[Location]() Test[Maps]()
+* Read[Android Connectivity & Cloud](http://developer.android.com/training/building-connectivity.html) 
+* Test[Connectivity]() 
+* Test[Cloud]()
 
 ### PROJECT 7 TRAINING
 
@@ -240,7 +251,7 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 
 #### PROJECT 7 HOMEWORK
 
-* Read[Android user info & sign in](http://developer.android.com/training/building-userinfo.html) Test[User Info]() Test[Sign In]()
+* Read[Android Location & Maps](http://developer.android.com/training/building-location.html) * Test[Location]() Test[Maps]()
 
 ##### PROJECT 7 CUSTOM ANDROID APP
 
@@ -267,20 +278,24 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 
 #### PROJECT 8 HOMEWORK
 
-* Read[something](https://www...) Test[]()
+* Read[Android user info & sign in](http://developer.android.com/training/building-userinfo.html) 
+* Test[User Info]() Test[Sign In]()
 
 ### PROJECT 9 TRAINING
 
 1. Code review project 9
-1. Look at options for google services
+1. Look at options for wearables, tv & auto
     * Show solutions for each
 1. Android Studio Project Walkthrough
 
 #### PROJECT 9 HOMEWORK
 
-* Read[Android Wearables](http://developer.android.com/training/building-wearables.html) Test [Wearables]()
-* Read [Android TV](http://developer.android.com/training/tv/index.html) Test [TV]()
-* Read [Android Auto](http://developer.android.com/training/auto/index.html) Test [Auto]()
+* Read [Android Wearables](http://developer.android.com/training/building-wearables.html) 
+* Test [Wearables]()
+* Read [Android TV](http://developer.android.com/training/tv/index.html) 
+* Test [TV]()
+* Read [Android Auto](http://developer.android.com/training/auto/index.html) 
+* Test [Auto]()
 
 ##### PROJECT 9 CUSTOM ANDROID APP
 
@@ -302,18 +317,19 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 ### PROJECT 10 TRAINING
 
 1. Code review project 10
-1. Look at options for Best Practices Interaction & Engagement
+1. Look at options for Google Services
     * Show solutions for each
 1. Android Studio Project Walkthrough
 
 #### PROJECT 10 HOMEWORK
 
-* Read[Interaction & Engagement](http://developer.android.com/training/best-ux.html) Test [Interactions & Engagement]()
+* Read[Google Services](http://developer.android.com/training/best-ux.html) 
+* Test [Google Services]()
 
 ##### PROJECT 10 CUSTOM ANDROID APP
 
 * Complete your Custom Android App & Push to your Forked Code Repository.
-** Include Features: interaction and engagement
+** Include Features: google services
 * Submit Custom Android App with PR to validate code passes requirements (before thursday midnight if you want feedback).
 * Add link, description & screenshot of your project on your:
 	* facebook profile.
@@ -335,7 +351,8 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 
 #### PROJECT 11 HOMEWORK
 
-* Read [UI](http://developer.android.com/training/best-ui.html) Test [UI Best Practices]
+* Read [UI](http://developer.android.com/training/best-ui.html) 
+* Test [UI Best Practices]
 
 ##### PROJECT 11 CUSTOM ANDROID APP
 
@@ -362,7 +379,8 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 
 #### PROJECT 12 HOMEWORK
 
-* Read [Background Jobs](http://developer.android.com/training/best-background.html) Test[Best Practices Background Jobs]()
+* Read [Background Jobs](http://developer.android.com/training/best-background.html) 
+* Test [Best Practices Background Jobs]()
 
 ##### PROJECT 12 CUSTOM ANDROID APP
 
@@ -390,7 +408,8 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 
 #### PROJECT 13 HOMEWORK
 
-* Read [Performance](http://developer.android.com/training/best-performance.html) Test[Best Practices Performance]()
+* Read [Performance](http://developer.android.com/training/best-performance.html) 
+* Test[Best Practices Performance]()
 
 ##### PROJECT 13 CUSTOM ANDROID APP
 
@@ -418,7 +437,8 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 
 #### PROJECT 14 HOMEWORK
 
-* Read [Security & Privacy](http://developer.android.com/training/best-performance.html) Test [Best Practices Security & Privacy]()
+* Read [Security & Privacy](http://developer.android.com/training/best-performance.html) 
+* Test [Best Practices Security & Privacy]()
 
 ##### PROJECT 14 CUSTOM ANDROID APP
 
@@ -445,12 +465,41 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 
 #### PROJECT 15 HOMEWORK
 
-* Read [Testing](http://developer.android.com/training/testing.html)* Improve your previous assignments Test [Best Practices Android Testing]()
+* Read [Testing](http://developer.android.com/training/testing.html)* Improve your previous assignments 
+* Test [Best Practices Android Testing]()
 
 ##### PROJECT 15 CUSTOM ANDROID APP
 
 * Complete your Custom Android App & Push to your Forked Code Repository.
 ** Include Features: android testing
+* Submit Custom Android App with PR to validate code passes requirements (before thursday midnight if you want feedback).
+* Add link, description & screenshot of your project on your:
+	* facebook profile.
+	* twitter profile
+	* linkedin profile
+	* youtube profile
+	* google profile
+* Add link, description & screenshot of your project:
+	* MoniGarr.com Google+ Community
+* Receive Peer Review.
+* Give Peer Review.
+
+### PROJECT 16 TRAINING
+
+1. Code review project 16
+1. Look at options for Best Practices interaction & engagement
+    * Show solutions for each
+1. Android Studio Project Walkthrough
+
+#### PROJECT 16 HOMEWORK
+
+* Read[Interaction & Engagement](http://developer.android.com/training/best-ux.html) 
+* Test [Interactions & Engagement]()
+
+##### PROJECT 16 CUSTOM ANDROID APP
+
+* Complete your Custom Android App & Push to your Forked Code Repository.
+** Include Features: interaction and engagement
 * Submit Custom Android App with PR to validate code passes requirements (before thursday midnight if you want feedback).
 * Add link, description & screenshot of your project on your:
 	* facebook profile.
