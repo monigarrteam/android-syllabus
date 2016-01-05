@@ -6,8 +6,21 @@ Android Development Training with MoniGarr.com
 
 Learn how to develop Android apps with java, android studio and google android resources. Topics include software installation, best practices, android ui, material design, java programming language, debugging and more. Discover some of the lesser-known useful features of android software development, such as how to improve your android app performance, security and stability to provide the best end user experience available. Create Android apps for mobile phones, wearables, autos and tv using industry standard best practices.
 
+## GRADING & VIDEO FEEDBACK
+
+* Project Completion 100%
+
+## YOUR SUCCESS PLAN
+
+Do all of the following for each project. The focus is on building your own online branded portfolio with real life experience to help your own career goals as an android developer.
+
+* Complete Project Training: video tutorials & practice.
+* Complete Project Homework: reading & practice.
+* Complete Project Online Written Tests.
+* Complete Project Custom Android App.
+
 ## PREREQUISITES
-All of the following is required for you to learn how to develop Android apps with MoniGarr.com.
+The following is required to learn how to develop Android apps with MoniGarr.com.
 
 * Your Own Laptop with Internet Service.
 * Your Own Android Device with Internet Service.
@@ -23,16 +36,6 @@ All of the following is required for you to learn how to develop Android apps wi
 	* LinkedIn Profile: http://www.linkedin.com
 	* Google+ profile: http://plus.google.com
 	* YouTube Channel: https://www.google.com/search?q=how+to+create+a+youtube+channel&ie=utf-8&oe=utf-8
-
-## YOUR SUCCESS PLAN
-
-Do all of the following for each project. The focus is on building your own online branded portfolio with real life experience to help your own career goals as an android developer.
-
-* Complete Project Training: video tutorials & practice.
-* Complete Project Homework: reading & practice.
-* Complete Project Online Written Tests.
-* Complete Project Custom Android App.
-
 
 ## ANDROID HOMEWORK / PROJECTS / TOPICS:
 
@@ -61,53 +64,7 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 
 ## HOMEWORK/PROJECTS
 
-All assignments are listed in the following [Course Outline](#course-outline).
-
-### WORKFLOW
-
-Overall steps with GitHub Desktop:
-
-1. [GitHub Instructions](https://help.github.com/desktop/guides/contributing/) 
-1. Request Access to a specific Project's repository from monigarr@yahoo.com 
-1. Fork Repository for the exercise/project (found under [github.com/monigarrteam](https://github.com/monigarrteam/projectname)).
-1. Clone Repository to your computer.  $git clone http://www.urltoyourownrepository.com
-1. Create New Android Project in your local computer repository.
-1. Work on your Android Project in Android Studio and save your work in your local computer's repository. 
-1. Commit All Your Code. $git add -A   $git commit -m "description of your work"
-1. Push Your Code to your GitHub forked repository.   $git push origin master
-1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request/) on the original repository before Friday midnight. 
-
-When your pull request is created, you should see a message saying "the Travis CI build is in progress" – that means your solution is being automagically checked for syntax errors.  If your "build" ends up failing (which will show a red "X"), click through the "details" link and scroll to the bottom to see what your errors are.  Per [requirements](#requirements), Please fix your issues and push up the changes.
-
-Feedback is only provided in your pull request, so please respond with your thoughts and questions!  You can open the pull request as the work is still in-progress if you are stuck and want to ask a question – just mention `@monigarr` with the question to make sure the instructor will know to look at it sooner.
-
-Your solution will be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAME`.  For exercises with multiple levels/versions, leave a new comment in the pull request saying "Level X finished!" before pushing commits for the next level. "BONUS" levels are for extra credit.
-
-### REQUIREMENTS
-
-* [Travis CI](https://docs.travis-ci.com/) build must pass.
-* Must practice "good programming style"
-    * Functions should be "short" (see [Sandi Metz's rules for developers](https://robots.thoughtbot.com/sandi-metz-rules-for-developers)).
-    * Optimize for Readability.
-        * ["Programs must be written for people to read, and only incidentally for machines to execute." -Harold Abelson](https://www.goodreads.com/quotes/9168-programs-must-be-written-for-people-to-read-and-only)
-    * Avoid using anonymous callbacks within other functions, especially if the callback is more than one or two lines.
-    * For projects, use Object-Oriented Programming.
-* Any borrowed code must be properly [annotated](http://documentup.com/advanced-js/syllabus#statements-on-plagiarism/instructor).
-* Bonus Points for:
-    * [Unit Testing with 50% or more code coverage]
-    * [Optimization Techniques]
-    * [Creativity] as long as requirements are fulfilled
-
-### ANDROID DEVELOPMENT INDUSTRY RESOURCES
-
-* [Android Studio Install](http://developer.android.com/sdk/index.html)
-* [Android Developer Resources](http://developer.android.com)
-* Git and GitHub
-    * [Official GitHub Help](https://help.github.com/)
-    * [Recommended resources](http://hackerhours.org/resources.html#github)
-* GitHub Pages
-    * [Official site](https://pages.github.com/)
-    * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
+All training, homework and custom android project assignments are listed in the following [Course Outline](#course-outline).
 
 ## COURSE OUTLINE
 
@@ -534,11 +491,51 @@ Your solution will be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAME`.  
 * Receive Peer Review.
 * Give Peer Review.
 
+### WORKFLOW
 
-#### MORE ONLINE TRAINING
+Overall steps with GitHub Desktop:
 
-* [YouTube Android Training](https://www.youtube.com/user/androiddevelopers)
-* [TreeHouse](http://referrals.trhou.se/monicapeters)
+1. [GitHub Instructions](https://help.github.com/desktop/guides/contributing/) 
+1. Request Access to a specific Project's repository from monigarr@yahoo.com 
+1. Fork Repository for the exercise/project (found under [github.com/monigarrteam](https://github.com/monigarrteam/projectname)).
+1. Clone Repository to your computer.  $git clone http://www.urltoyourownrepository.com
+1. Create New Android Project in your local computer repository.
+1. Work on your Android Project in Android Studio and save your work in your local computer's repository. 
+1. Commit All Your Code. $git add -A   $git commit -m "description of your work"
+1. Push Your Code to your GitHub forked repository.   $git push origin master
+1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request/) on the original repository before Friday midnight. 
+
+When your pull request is created, you should see a message saying "the Travis CI build is in progress" – that means your solution is being automagically checked for syntax errors.  If your "build" ends up failing (which will show a red "X"), click through the "details" link and scroll to the bottom to see what your errors are.  Per [requirements](#requirements), Please fix your issues and push up the changes.
+
+Feedback is only provided in your pull request, so please respond with your thoughts and questions!  You can open the pull request as the work is still in-progress if you are stuck and want to ask a question – just mention `@monigarr` with the question to make sure the instructor will know to look at it sooner.
+
+Your solution will be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAME`.  For exercises with multiple levels/versions, leave a new comment in the pull request saying "Level X finished!" before pushing commits for the next level. "BONUS" levels are for extra credit.
+
+### REQUIREMENTS
+
+* [Travis CI](https://docs.travis-ci.com/) build must pass.
+* Must practice "good programming style"
+    * Functions should be "short" (see [Sandi Metz's rules for developers](https://robots.thoughtbot.com/sandi-metz-rules-for-developers)).
+    * Optimize for Readability.
+        * ["Programs must be written for people to read, and only incidentally for machines to execute." -Harold Abelson](https://www.goodreads.com/quotes/9168-programs-must-be-written-for-people-to-read-and-only)
+    * Avoid using anonymous callbacks within other functions, especially if the callback is more than one or two lines.
+    * For projects, use Object-Oriented Programming.
+* Any borrowed code must be properly [annotated](http://documentup.com/advanced-js/syllabus#statements-on-plagiarism/instructor).
+* Bonus Points for:
+    * [Unit Testing with 50% or more code coverage]
+    * [Optimization Techniques]
+    * [Creativity] as long as requirements are fulfilled
+
+### ANDROID DEVELOPMENT INDUSTRY RESOURCES
+
+* [Android Studio Install](http://developer.android.com/sdk/index.html)
+* [Android Developer Resources](http://developer.android.com)
+* Git and GitHub
+    * [Official GitHub Help](https://help.github.com/)
+    * [Recommended resources](http://hackerhours.org/resources.html#github)
+* GitHub Pages
+    * [Official site](https://pages.github.com/)
+    * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
 
 ### TOOLS
 
@@ -547,9 +544,6 @@ Your solution will be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAME`.  
     * [Testing Best Practices](http://developer.android.com/training/testing.html)
 * Share Code: [gist.github.com](https://gist.github.com/)
 * Ask Questions: [Stack Overflow](http://stackoverflow.com/)
-
-#### SANDBOXES
-
 * [Browxy](http://www.browxy.com/) (recommended)
 * [rawgithub.com](http://rawgit.com/)
 
@@ -573,10 +567,8 @@ Your solution will be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAME`.  
 * [Android Material Design](http://developer.android.com/design/index.html)
 * [Android Training](http://developer.android.com/training/index.html)
 * [Android Samples](http://developer.android.com/samples/index.html)
-
-## GRADING & VIDEO FEEDBACK
-
-* Project Completion 100%
+* [YouTube Android Training](https://www.youtube.com/user/androiddevelopers)
+* [TreeHouse](http://referrals.trhou.se/monicapeters)
 
 ## STATEMENTS ON PLAGIARISM
 
