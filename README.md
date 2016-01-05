@@ -38,6 +38,7 @@ The following is required to learn how to develop Android apps with MoniGarr.com
 * Read [Android Different Devices](http://developer.android.com/training/basics/supporting-devices/index.html)
 
 ## ANDROID HOMEWORK / PROJECTS / TOPICS:
+Each project includes video tutorials, reading and homework for a one week sprint. Individual & group tutoring can be scheduled with monigarr@yahoo.com in advance.
 
 * Intro: Schedules and Your Success Plan
 * Project 1: 1st App, Android Lifecycle
@@ -60,8 +61,6 @@ The following is required to learn how to develop Android apps with MoniGarr.com
 * Project 18: Publish Android Apps for Income
 * Project 19: Android Game FPS
 * Project 20: Android Game ...
-
-Each project includes video tutorials, reading and homework for a one week sprint. Individual & group tutoring can be scheduled with monigarr@yahoo.com in advance.
 
 ## HOMEWORK/PROJECTS
 
