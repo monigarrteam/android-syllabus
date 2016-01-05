@@ -4,7 +4,7 @@ Android Development Training with MoniGarr.com
 
 ## COURSE DESCRIPTION
 
-Learn how to develop MoniGarr.com Android apps with java and android studio. Topics include software installation, best practices, android ui, material design, java programming language, debugging and more. Discover some of the lesser-known useful features of android software development, such as how to improve your android app performance, security and stability provides the best end user experience available. Create Android apps for mobile phones, wearables and more using industry standard Android Studio.
+Learn how to develop Android apps with java, android studio and google android resources. Topics include software installation, best practices, android ui, material design, java programming language, debugging and more. Discover some of the lesser-known useful features of android software development, such as how to improve your android app performance, security and stability to provide the best end user experience available. Create Android apps for mobile phones, wearables, autos and tv using industry standard best practices.
 
 ## PREREQUISITES
 All of the following is required for you to learn how to develop Android apps with MoniGarr.com.
@@ -125,6 +125,7 @@ Your solution will be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAME`.  
 * Login [MoniGarr.com Classes](https://www.monigarr.com) page, where grades will be posted.
     * [Documentation](https://www.monigarr.com/android2016course/Student+Quick-Start)
 * Android Studio Walkthrough
+* Read & Complete Work: [Building Your First App](http://developer.android.com/training/basics/firstapp/index.html)
 * Read [Android Lifecycle](http://developer.android.com/training/basics/activity-lifecycle/index.html)
 * Read [Android Dynamic UI](http://developer.android.com/training/basics/fragments/index.html)
 * Read [Android Design](http://developer.android.com/design/index.html)
