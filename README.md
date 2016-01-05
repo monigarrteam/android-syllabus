@@ -26,13 +26,13 @@ All of the following is required for you to learn how to develop Android apps wi
 
 ## COURSE SUCCESS PLAN
 
-Students that do all of the following for each project will gain the most success:
-* Complete Reading Assignments.
-* View Online Video Tutorials.
-* Follow Video Tutorials with Code Samples on your own computer.
+Students that do all of the following for each project will gain the most success. The focus is on building each student's own online branded portfolio with real life experience to help students' own career goals as android developers.
+
+* Complete Training: video tutorials & practice.
+* Complete Homework: reading & practice.
 * Complete Online Written Tests.
 * Complete Custom Android App Assignment. 
-The focus is on building each student's own online branded portfolio with real life experience to help students' own career goals as android developers.
+
 
 ## ANDROID HOMEWORK / PROJECTS / TOPICS INCLUDE:
 
