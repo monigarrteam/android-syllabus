@@ -17,24 +17,24 @@ All of the following is required for you to learn how to develop Android apps wi
 * Read [Android 1st App](http://developer.android.com/training/basics/firstapp/index.html)
 * Read [Android Different Devices](http://developer.android.com/training/basics/supporting-devices/index.html)
 * Basic computer, mobile device and internet skills: web browsing, typing, copying, pasting, saving files, downloading content, sharing content on social networks, emailing, messaging, watching youtube videos, communicating with social networks.
-* Your Own Social Network Profiles Setup and for sharing your MoniGarr.com Android work.
+* Your Own Social Network Profiles Setup for sharing your Android work and portfolio.
 	* Facebook profile: http://www.FaceBook.com
 	* Twitter profile: http://www.Twitter.com
 	* LinkedIn Profile: http://www.linkedin.com
 	* Google+ profile: http://plus.google.com
 	* YouTube Channel: https://www.google.com/search?q=how+to+create+a+youtube+channel&ie=utf-8&oe=utf-8
 
-## COURSE SUCCESS PLAN
+## YOUR SUCCESS PLAN
 
-Students that do all of the following for each project will gain the most success. The focus is on building each student's own online branded portfolio with real life experience to help students' own career goals as android developers.
+Do all of the following for each project. The focus is on building your own online branded portfolio with real life experience to help your own career goals as an android developer.
 
-* Complete Training: video tutorials & practice.
-* Complete Homework: reading & practice.
-* Complete Online Written Tests.
-* Complete Custom Android App Assignment. 
+* Complete Project Training: video tutorials & practice.
+* Complete Project Homework: reading & practice.
+* Complete Project Online Written Tests.
+* Complete Project Custom Android App.
 
 
-## ANDROID HOMEWORK / PROJECTS / TOPICS INCLUDE:
+## ANDROID HOMEWORK / PROJECTS / TOPICS:
 
 * Intro: Schedules and Your Success Plan
 * Project 1: 1st App, Android Lifecycle & Android Dynamic UI
@@ -52,10 +52,10 @@ Students that do all of the following for each project will gain the most succes
 * Project 13: Android Best Practices: Performance
 * Project 14: Android Best Practices: Security & Privacy
 * Project 15: Android Best Practices: Testing
-* Project 16:
-* Project 17:
-* Project 18:
-* Project 19:
+* Project 16: tbd
+* Project 17: tbd
+* Project 18: tbd
+* Project 19: tbd
 
 Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be scheduled with monigarr@yahoo.com in advance.
 
@@ -65,7 +65,7 @@ All assignments are listed in the following [Course Outline](#course-outline).
 
 ### WORKFLOW
 
-The overall steps with GitHub Desktop:
+Overall steps with GitHub Desktop:
 
 1. [GitHub Instructions](https://help.github.com/desktop/guides/contributing/) 
 1. Request Access to a specific Project's repository from monigarr@yahoo.com 
@@ -98,10 +98,10 @@ Your solution will be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAME`.  
     * [Optimization Techniques]
     * [Creativity] as long as requirements are fulfilled
 
-### REQUIRED READING
+### ANDROID DEVELOPMENT INDUSTRY RESOURCES
 
-* [Android Studio Install]()
-* [Android Developer](http://developer.android.com)
+* [Android Studio Install](http://developer.android.com/sdk/index.html)
+* [Android Developer Resources](http://developer.android.com)
 * Git and GitHub
     * [Official GitHub Help](https://help.github.com/)
     * [Recommended resources](http://hackerhours.org/resources.html#github)
