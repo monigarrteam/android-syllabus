@@ -22,20 +22,20 @@ Do all of the following for each project. The focus is on building your own onli
 ## PREREQUISITES
 The following is required to learn how to develop Android apps with MoniGarr.com.
 
-* Your Own Laptop with Internet Service.
-* Your Own Android Device with Internet Service.
+* Laptop & Android Device with Internet Service.
 * Install Github Desktop: https://desktop.github.com/ 
 * Install Android Studio: http://developer.android.com/sdk/index.html
-* Read Android Studio Overview http://developer.android.com/tools/studio/index.html
-* Read [Android 1st App](http://developer.android.com/training/basics/firstapp/index.html)
-* Read [Android Different Devices](http://developer.android.com/training/basics/supporting-devices/index.html)
-* Basic computer, mobile device and internet skills: web browsing, typing, copying, pasting, saving files, downloading content, sharing content on social networks, emailing, messaging, watching youtube videos, communicating with social networks.
 * Your Own Social Network Profiles Setup for sharing your Android work and portfolio.
 	* Facebook profile: http://www.FaceBook.com
 	* Twitter profile: http://www.Twitter.com
 	* LinkedIn Profile: http://www.linkedin.com
 	* Google+ profile: http://plus.google.com
 	* YouTube Channel: https://www.google.com/search?q=how+to+create+a+youtube+channel&ie=utf-8&oe=utf-8
+
+## REQUIRED BEFORE FIRST PROJECT
+* Read Android Studio Overview http://developer.android.com/tools/studio/index.html
+* Read [Android 1st App](http://developer.android.com/training/basics/firstapp/index.html)
+* Read [Android Different Devices](http://developer.android.com/training/basics/supporting-devices/index.html)
 
 ## ANDROID HOMEWORK / PROJECTS / TOPICS:
 
