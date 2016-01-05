@@ -40,25 +40,26 @@ The following is required to learn how to develop Android apps with MoniGarr.com
 ## ANDROID HOMEWORK / PROJECTS / TOPICS:
 
 * Intro: Schedules and Your Success Plan
-* Project 1: 1st App, Android Lifecycle & Android Dynamic UI
-* Project 2: Save Data, Interact & Permissions
-* Project 3: Android Content Sharing
-* Project 4: Android Multimedia, Graphics & Animation
-* Project 5: Android Connectivity & Cloud
-* Project 6: Android Location & Maps
-* Project 7: Android User Info & Sign-in
-* Project 8: Android Wearables, TV & Auto
-* Project 9: Android Google Services
-* Project 10: Android Best Practices: Interaction & Engagement
+* Project 1: 1st App, Android Lifecycle
+* Project 2: Dynamic UI & Android Design
+* Project 3: Android Save Data & Interacting
+* Project 4: Android Permissions & Content Sharing
+* Project 5: Android Multimedia, Graphics & Animation
+* Project 6: Android Connectivity & Cloud
+* Project 7: Android Location & Maps
+* Project 8: Android User Info & Sign-In
+* Project 9: Android Best Practices: Wearables, TV & Auto
+* Project 10: Android Google Services
 * Project 11: Android Best Practices: User Interfaces
 * Project 12: Android Best Practices: Background Jobs
 * Project 13: Android Best Practices: Performance
 * Project 14: Android Best Practices: Security & Privacy
 * Project 15: Android Best Practices: Testing
-* Project 16: tbd
-* Project 17: tbd
-* Project 18: tbd
-* Project 19: tbd
+* Project 16: Android Best Practices: Interaction & Engagement
+* Project 17: Android Custom UI
+* Project 18: Publish Android Apps for Income
+* Project 19: Android Game FPS
+* Project 20: Android Game ...
 
 Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be scheduled with monigarr@yahoo.com in advance.
 
