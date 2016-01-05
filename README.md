@@ -1,4 +1,4 @@
-# android-syllabus
+# android-syllabus -DRAFT-
 Syllabus for Android development training with MoniGarr.com 
 
 
