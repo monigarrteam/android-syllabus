@@ -11,18 +11,22 @@ All of the following is required for you to learn how to develop Android apps wi
 
 * Your Own Laptop with Internet Service.
 * Your Own Android Device with Internet Service.
+* Install Github Desktop: https://desktop.github.com/ 
+* Install Android Studio: http://developer.android.com/sdk/index.html
+* Read Android Studio Overview http://developer.android.com/tools/studio/index.html
+* Read [Android 1st App](http://developer.android.com/training/basics/firstapp/index.html)
+* Read [Android Different Devices](http://developer.android.com/training/basics/supporting-devices/index.html)
+* Basic computer, mobile device and internet skills: 
+** web browsing, typing, copying, pasting, saving files, 
+** downloading content, sharing content on social networks, 
+** emailing, messaging, watching youtube videos, 
+** communicating with social networks.
 * Your Own Social Network Profiles Setup and for sharing your MoniGarr.com Android work.
 	* Facebook profile: http://www.FaceBook.com
 	* Twitter profile: http://www.Twitter.com
 	* LinkedIn Profile: http://www.linkedin.com
 	* Google+ profile: http://plus.google.com
 	* YouTube Channel: https://www.google.com/search?q=how+to+create+a+youtube+channel&ie=utf-8&oe=utf-8
-* Install Github Desktop: https://desktop.github.com/ 
-* Install Android Studio: http://developer.android.com/sdk/index.html
-* Read Android Studio Overview http://developer.android.com/tools/studio/index.html
-* Read [Android 1st App](http://developer.android.com/training/basics/firstapp/index.html)
-* Read [Android Different Devices](http://developer.android.com/training/basics/supporting-devices/index.html)
-* Basic computer, mobile device and internet skills: web browsing, typing, copying, pasting, saving files, downloading content, sharing content on social networks, emailing, messaging, watching youtube videos, communicating with social networks.
 
 ## COURSE SUCCESS PLAN
 
