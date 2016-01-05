@@ -218,6 +218,9 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 
 #### PROJECT 7
 
+1. Video: code review
+1. Video: Location & Maps
+1. Video: Android Studio Project Walkthrough
 * Read [Android Location & Maps](http://developer.android.com/training/building-location.html)
 * Test [Location]() 
 * Test [Maps]()
