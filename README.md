@@ -98,6 +98,17 @@ Your solution will be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAME`.  
     * [Optimization Techniques]
     * [Creativity] as long as requirements are fulfilled
 
+### REQUIRED READING
+
+* [Android Studio Install]()
+* [Android Developer](http://developer.android.com)
+* Git and GitHub
+    * [Official GitHub Help](https://help.github.com/)
+    * [Recommended resources](http://hackerhours.org/resources.html#github)
+* GitHub Pages
+    * [Official site](https://pages.github.com/)
+    * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
+
 ## COURSE OUTLINE
 
 ### PROJECT 1 TRAINING
@@ -393,6 +404,22 @@ Your solution will be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAME`.  
 * Read [UI](http://developer.android.com/training/best-ui.html)
 ** Test [ui]
 
+##### PROJECT 11 CUSTOM ANDROID APP
+
+* Complete your Custom Android App & Push to your Forked Code Repository.
+** Include Features: ui
+* Submit Custom Android App with PR to validate code passes requirements (before thursday midnight if you want feedback).
+* Add link, description & screenshot of your project on your:
+	* facebook profile.
+	* twitter profile
+	* linkedin profile
+	* youtube profile
+	* google profile
+* Add link, description & screenshot of your project:
+	* MoniGarr.com Google+ Community
+* Receive Peer Review.
+* Give Peer Review.
+
 ### PROJECT 12 TRAINING
 
 1. Code review project 12
@@ -403,13 +430,24 @@ Your solution will be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAME`.  
 #### PROJECT 12 HOMEWORK
 
 * Read [Background Jobs](http://developer.android.com/training/best-background.html)
-* Finish up and submit [FirstNameLastName_AndroidProject12](https://github.com/monigarrteam/androidproject12)
+** Test[Background Jobs]()
+
+##### PROJECT 12 CUSTOM ANDROID APP
+
+* Complete your Custom Android App & Push to your Forked Code Repository.
+** Include Features: background jobs
+* Submit Custom Android App with PR to validate code passes requirements (before thursday midnight if you want feedback).
 * Add link, description & screenshot of your project on your:
-	* facebook profile
+	* facebook profile.
 	* twitter profile
 	* linkedin profile
 	* youtube profile
 	* google profile
+* Add link, description & screenshot of your project:
+	* MoniGarr.com Google+ Community
+* Receive Peer Review.
+* Give Peer Review.
+
 
 ### PROJECT 13 TRAINING
 
@@ -421,13 +459,24 @@ Your solution will be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAME`.  
 #### PROJECT 13 HOMEWORK
 
 * Read [Performance](http://developer.android.com/training/best-performance.html)
-* Finish up and submit [FirstNameLastName_AndroidProject13](https://github.com/monigarrteam/androidproject13)
+** Test[Performance]()
+
+##### PROJECT 13 CUSTOM ANDROID APP
+
+* Complete your Custom Android App & Push to your Forked Code Repository.
+** Include Features: performance
+* Submit Custom Android App with PR to validate code passes requirements (before thursday midnight if you want feedback).
 * Add link, description & screenshot of your project on your:
-	* facebook profile
+	* facebook profile.
 	* twitter profile
 	* linkedin profile
 	* youtube profile
 	* google profile
+* Add link, description & screenshot of your project:
+	* MoniGarr.com Google+ Community
+* Receive Peer Review.
+* Give Peer Review.
+
 
 ### PROJECT 14 TRAINING
 
@@ -439,13 +488,23 @@ Your solution will be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAME`.  
 #### PROJECT 14 HOMEWORK
 
 * Read [Security & Privacy](http://developer.android.com/training/best-performance.html)
-* Finish up and submit [FirstNameLastName_AndroidProject14](https://github.com/monigarrteam/androidproject14)
+** Test [Security & Privacy]()
+
+##### PROJECT 14 CUSTOM ANDROID APP
+
+* Complete your Custom Android App & Push to your Forked Code Repository.
+** Include Features: security & privacy
+* Submit Custom Android App with PR to validate code passes requirements (before thursday midnight if you want feedback).
 * Add link, description & screenshot of your project on your:
-	* facebook profile
+	* facebook profile.
 	* twitter profile
 	* linkedin profile
 	* youtube profile
 	* google profile
+* Add link, description & screenshot of your project:
+	* MoniGarr.com Google+ Community
+* Receive Peer Review.
+* Give Peer Review.
 
 ### PROJECT 15 TRAINING
 
@@ -457,26 +516,23 @@ Your solution will be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAME`.  
 #### PROJECT 15 HOMEWORK
 
 * Read [Testing](http://developer.android.com/training/testing.html)* Improve your previous assignments
-* Finish up and submit [FirstNameLastName_AndroidProject15](https://github.com/monigarrteam/androidproject15)
+** Test [android testing]()
+
+##### PROJECT 15 CUSTOM ANDROID APP
+
+* Complete your Custom Android App & Push to your Forked Code Repository.
+** Include Features: android testing
+* Submit Custom Android App with PR to validate code passes requirements (before thursday midnight if you want feedback).
 * Add link, description & screenshot of your project on your:
-	* facebook profile
+	* facebook profile.
 	* twitter profile
 	* linkedin profile
 	* youtube profile
 	* google profile
-
-## Resources
-
-### Required Reading
-
-* [Android Studio Install](http://google-styl)
-* [Android Developer](http://developer.android.com)
-* Git and GitHub
-    * [Official GitHub Help](https://help.github.com/)
-    * [Recommended resources](http://hackerhours.org/resources.html#github)
-* GitHub Pages
-    * [Official site](https://pages.github.com/)
-    * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
+* Add link, description & screenshot of your project:
+	* MoniGarr.com Google+ Community
+* Receive Peer Review.
+* Give Peer Review.
 
 
 #### MORE ONLINE TRAINING
