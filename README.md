@@ -31,11 +31,12 @@ Students that do all of the following for each project will gain the most succes
 * Complete Online Video Tutorial with Code Sample Follow Along.
 * Complete Online Written Test.
 * Research, Document & Develop the Custom Android App. 
-* Submit Custom Android App with PR to validate code passes requirements.
-* Share Custom Android App on student's own social networks.
+* Submit Custom Android App with PR to validate code passes requirements (before thursday midnight if you want feedback).
+* Publish Finalized Custom Android App.
+* Share Final Custom Android App on student's own social networks.
 * Receive Peer Review.
 * Give Peer Review.
-The focus is on building each student's own online branded portfolio with real life experience to help gain future work as an android developer.
+The focus is on building each student's own online branded portfolio with real life experience to help students' own career goals as android developers.
 
 ## ANDROID HOMEWORK / PROJECTS / TOPICS INCLUDE:
 
@@ -103,7 +104,7 @@ Your solution will be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAME`.  
 
 ## COURSE OUTLINE
 
-### WEEK 1 CLASS
+### PROJECT 1 TRAINING
 
 1. Intro
     * Introduce yourselves in private online class: your name, link to your social profiles: github, facebook, twitter, linkedin, youtube and google+
@@ -135,7 +136,7 @@ Your solution will be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAME`.  
 	* youtube profile
 	* google profile
 
-### PROJECT 2 CLASS
+### PROJECT 2 TRAINING
 
 1. Code review project 2
 1. Look at options for saving data, interacticing with other apps and setting up app permissions
@@ -158,7 +159,7 @@ Your solution will be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAME`.  
 	* youtube profile
 	* google profile
 
-### PROJECT 3 CLASS
+### PROJECT 3 TRAINING
 
 1. Code review project 3
 1. Look at options for android app content sharing
@@ -177,7 +178,7 @@ Your solution will be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAME`.  
 	* youtube profile
 	* google profile
 
-### PROJECT 4 CLASS
+### PROJECT 4 TRAINING
 
 1. Code review project 4
 1. Look at options for multimedia, graphics and animation
@@ -197,7 +198,7 @@ Your solution will be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAME`.  
 	* youtube profile
 	* google profile
 
-### PROJECT 5 CLASS
+### PROJECT 5 TRAINING
 
 1. Code review project 5
 1. Look at options for connectivity and cloud
@@ -216,7 +217,7 @@ Your solution will be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAME`.  
 	* youtube profile
 	* google profile
 
-### PROJECT 6 CLASS
+### PROJECT 6 TRAINING
 
 1. Code review project 6
 1. Look at options for location and maps
@@ -235,7 +236,7 @@ Your solution will be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAME`.  
 	* youtube profile
 	* google profile
 
-### PROJECT 7 CLASS
+### PROJECT 7 TRAINING
 
 1. Code review project 7
 1. Look at options for user info & sign-in
@@ -254,7 +255,7 @@ Your solution will be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAME`.  
 	* youtube profile
 	* google profile
 
-### PROJECT 8 CLASS
+### PROJECT 8 TRAINING
 
 1. Code review project 8
 1. Look at options for wearables, tv and auto
@@ -273,7 +274,7 @@ Your solution will be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAME`.  
 	* youtube profile
 	* google profile
 
-### PROJECT 9 CLASS
+### PROJECT 9 TRAINING
 
 1. Code review project 9
 1. Look at options for google services
@@ -294,7 +295,7 @@ Your solution will be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAME`.  
 	* youtube profile
 	* google profile
 
-### PROJECT 10 CLASS
+### PROJECT 10 TRAINING
 
 1. Code review project 10
 1. Look at options for Best Practices Interaction & Engagement
@@ -313,7 +314,7 @@ Your solution will be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAME`.  
 	* youtube profile
 	* google profile
 
-### PROJECT 11 CLASS
+### PROJECT 11 TRAINING
 
 1. Code review project 11
 1. Look at options for Best Practices User Interfaces
@@ -332,7 +333,7 @@ Your solution will be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAME`.  
 	* youtube profile
 	* google profile
 
-### PROJECT 12 CLASS
+### PROJECT 12 TRAINING
 
 1. Code review project 12
 1. Look at options for Best Practices Background Jobs
@@ -350,7 +351,7 @@ Your solution will be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAME`.  
 	* youtube profile
 	* google profile
 
-### PROJECT 13 CLASS
+### PROJECT 13 TRAINING
 
 1. Code review project 13
 1. Look at options for Best Practices Performance
@@ -368,7 +369,7 @@ Your solution will be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAME`.  
 	* youtube profile
 	* google profile
 
-### PROJECT 14 CLASS
+### PROJECT 14 TRAINING
 
 1. Code review project 14
 1. Look at options for Best Practices Security & Privacy
@@ -386,7 +387,7 @@ Your solution will be live at `http://YOURUSERNAME.github.io/YOURPROJECTNAME`.  
 	* youtube profile
 	* google profile
 
-### PROJECT 15 CLASS
+### PROJECT 15 TRAINING
 
 1. Code review project 15
 1. Look at options for Best Practices Testing
