@@ -68,20 +68,18 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 
 ### PROJECT 1 TRAINING
 
-1. Intro
-    * Video: homework expectations
-    * Video: custom android app expectations
-    * Details about what the class is going to cover
-1. Verify Students' Setups
-    * Android Studio
-    * Git/GitHub
-    * Social Network Profiles: github, fb, twitter, linkedin, youtube channel
-1. GitHub workflow
-    * Video: Walk through [workflow](#workflow)
-    * Video: Create pull request on [students repository](https://github.com/monigarrteam/students)
+1. Video: homework expectations
+1. Video: custom android app expectations
+1. Video: Details about what the class is going to cover
+1. Video: GitHub Walk through [workflow](#workflow)
+1. Video: GitHub Pull Request
 1. Video: Weekly Project Expectations - how to be successful
 1. Video: Android Studio Intro
 1. Video: Code Review Your First App 
+1. Verify Students' Setup
+    * Android Studio
+    * Git/GitHub
+    * Social Network Profiles: github, fb, twitter, linkedin, youtube channel
 
 #### PROJECT 1 HOMEWORK
 
