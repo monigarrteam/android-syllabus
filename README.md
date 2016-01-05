@@ -84,25 +84,23 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 #### PROJECT 1 HOMEWORK
 
 * Read [Building Your First App](http://developer.android.com/training/basics/firstapp/index.html) 
-* Test [Your First App]()
+	* Test [Your First App]()
 * Read [Android Lifecycle](http://developer.android.com/training/basics/activity-lifecycle/index.html) 
-* Test [Lifecycle]()
-
-##### PROJECT 1 CUSTOM ANDROID APP
-
-* Complete your Custom Android App & Push to your Forked Code Repository.
-** Include Features: your first app
-* Submit Custom Android App with PR to validate code passes requirements (before thursday midnight if you want feedback).
-* Add link, description & screenshot of your project on your:
-	* facebook profile.
-	* twitter profile
-	* linkedin profile
-	* youtube profile
-	* google profile
-* Add link, description & screenshot of your project:
-	* MoniGarr.com Google+ Community
-* Receive Peer Review.
-* Give Peer Review.
+	* Test [Lifecycle]()
+* Custom Android App
+	* Complete your Custom Android App & Push to your Forked Code Repository.
+		** Include Features: your first app
+	* Submit Custom Android App with PR to validate code passes requirements (before thursday midnight if you want feedback).
+	* Add link, description & screenshot of your project on your:
+		* facebook profile.
+		* twitter profile
+		* linkedin profile
+		* youtube profile
+		* google profile
+	* Add link, description & screenshot of your project:
+		* MoniGarr.com Google+ Community
+	* Receive Peer Review.
+	* Give Peer Review.
 
 ### PROJECT 2 TRAINING
 
@@ -116,22 +114,20 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 * Test [Dynamic UI]()
 * Read [Android Design](http://developer.android.com/design/index.html) 
 * Test [Design]()
-
-##### PROJECT 2 CUSTOM ANDROID APP
-
-* Complete your Custom Android App & Push to your Forked Code Repository.
-** Include Features: dynamic ui and android design.
-* Submit Custom Android App with PR to validate code passes requirements (before thursday midnight if you want feedback).
-* Add link, description & screenshot of your project on your:
-	* facebook profile.
-	* twitter profile
-	* linkedin profile
-	* youtube profile
-	* google profile
-* Add link, description & screenshot of your project:
-	* MoniGarr.com Google+ Community
-* Receive Peer Review.
-* Give Peer Review.
+* Custom Android App
+	* Complete your Custom Android App & Push to your Forked Code Repository.
+		** Include Features: dynamic ui and android design.
+	* Submit Custom Android App with PR to validate code passes requirements (before thursday midnight if you want feedback).
+	* Add link, description & screenshot of your project on your:
+		* facebook profile.
+		* twitter profile
+		* linkedin profile
+		* youtube profile
+		* google profile
+	* Add link, description & screenshot of your project:
+		* MoniGarr.com Google+ Community
+	* Receive Peer Review.
+	* Give Peer Review.
 
 ### PROJECT 3 TRAINING
 
@@ -144,22 +140,20 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 * Test [Saving Data]()
 * Read [Android Interacting with Other Apps](http://developer.android.com/training/basics/intents/index.html) 
 * Test [Interacting]()
-
-##### PROJECT 3 CUSTOM ANDROID APP
-
-* Complete your Custom Android App & Push to your Forked Code Repository.
-** Include Features: saving data & interacting
-* Submit Custom Android App with PR to validate code passes requirements (before thursday midnight if you want feedback).
-* Add link, description & screenshot of your project on your:
-	* facebook profile.
-	* twitter profile
-	* linkedin profile
-	* youtube profile
-	* google profile
-* Add link, description & screenshot of your project:
-	* MoniGarr.com Google+ Community
-* Receive Peer Review.
-* Give Peer Review.
+* Custom Android App
+	* Complete your Custom Android App & Push to your Forked Code Repository.
+		** Include Features: saving data & interacting
+	* Submit Custom Android App with PR to validate code passes requirements (before thursday midnight if you want feedback).
+	* Add link, description & screenshot of your project on your:
+		* facebook profile.
+		* twitter profile
+		* linkedin profile
+		* youtube profile
+		* google profile
+	* Add link, description & screenshot of your project:
+		* MoniGarr.com Google+ Community
+	* Receive Peer Review.
+	* Give Peer Review.
 
 ### PROJECT 4 TRAINING
 
