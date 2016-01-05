@@ -93,7 +93,7 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 ##### PROJECT 1 CUSTOM ANDROID APP
 
 * Complete your Custom Android App & Push to your Forked Code Repository.
-** Include Features: Dynamic UI and Android Design
+** Include Features: your first app
 * Submit Custom Android App with PR to validate code passes requirements (before thursday midnight if you want feedback).
 * Add link, description & screenshot of your project on your:
 	* facebook profile.
@@ -109,7 +109,7 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 ### PROJECT 2 TRAINING
 
 1. Video: code review
-1. Video: saving data, interacting with other apps & setting up app permissions
+1. Video: Dynamic UI and Android Design
     * Show solutions for each
 1. Video: Android Studio Project Walkthrough
     * app permissions
@@ -126,7 +126,7 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 ##### PROJECT 2 CUSTOM ANDROID APP
 
 * Complete your Custom Android App & Push to your Forked Code Repository.
-** Include Features: saving data, interacting & permissions
+** Include Features: dynamic ui and android design.
 * Submit Custom Android App with PR to validate code passes requirements (before thursday midnight if you want feedback).
 * Add link, description & screenshot of your project on your:
 	* facebook profile.
@@ -142,7 +142,7 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 ### PROJECT 3 TRAINING
 
 1. Video: Code Review
-1. Video: Android app content sharing
+1. Video: Android app saving data, interacting with other apps
     * Show solutions for each
 
 #### PROJECT 3 HOMEWORK
@@ -155,7 +155,7 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 ##### PROJECT 3 CUSTOM ANDROID APP
 
 * Complete your Custom Android App & Push to your Forked Code Repository.
-** Include Features: Android Content Sharing
+** Include Features: saving data & interacting
 * Submit Custom Android App with PR to validate code passes requirements (before thursday midnight if you want feedback).
 * Add link, description & screenshot of your project on your:
 	* facebook profile.
@@ -171,7 +171,7 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 ### PROJECT 4 TRAINING
 
 1. Code review project 4
-1. Look at options for multimedia, graphics and animation
+1. Look at options for permissions & content sharing
     * Show solutions for each
 1. Android Studio Project Walkthrough
 
@@ -185,7 +185,7 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 ##### PROJECT 4 CUSTOM ANDROID APP
 
 * Complete your Custom Android App & Push to your Forked Code Repository.
-** Include Features: multimedia, graphics & animation
+** Include Features: permissions & content sharing
 * Submit Custom Android App with PR to validate code passes requirements (before thursday midnight if you want feedback).
 * Add link, description & screenshot of your project on your:
 	* facebook profile.
@@ -202,7 +202,7 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 ### PROJECT 5 TRAINING
 
 1. Code review project 5
-1. Look at options for connectivity and cloud
+1. Look at options for multimedia, graphics & animation
     * Show solutions for each
 1. Android Studio Project Walkthrough
 
@@ -216,7 +216,7 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 ##### PROJECT 5 CUSTOM ANDROID APP
 
 * Complete your Custom Android App & Push to your Forked Code Repository.
-** Include Features: connectivity & cloud
+** Include Features: multimedia, graphics, animation
 * Submit Custom Android App with PR to validate code passes requirements (before thursday midnight if you want feedback).
 * Add link, description & screenshot of your project on your:
 	* facebook profile.
@@ -232,7 +232,7 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 ### PROJECT 6 TRAINING
 
 1. Code review project 6
-1. Look at options for location and maps
+1. Look at options for connectivity, cloud
     * Show solutions for each
 1. Android Studio Project Walkthrough
 
@@ -245,18 +245,20 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 ### PROJECT 7 TRAINING
 
 1. Code review project 7
-1. Look at options for user info & sign-in
+1. Look at options for location, maps
     * Show solutions for each
 1. Android Studio Project Walkthrough
 
 #### PROJECT 7 HOMEWORK
 
-* Read[Android Location & Maps](http://developer.android.com/training/building-location.html) * Test[Location]() Test[Maps]()
+* Read [Android Location & Maps](http://developer.android.com/training/building-location.html)
+* Test [Location]() 
+* Test [Maps]()
 
 ##### PROJECT 7 CUSTOM ANDROID APP
 
 * Complete your Custom Android App & Push to your Forked Code Repository.
-** Include Features: user info & sign in
+** Include Features: location, maps
 * Submit Custom Android App with PR to validate code passes requirements (before thursday midnight if you want feedback).
 * Add link, description & screenshot of your project on your:
 	* facebook profile.
@@ -272,14 +274,15 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 ### PROJECT 8 TRAINING
 
 1. Code review project 8
-1. Look at options for wearables, tv and auto
+1. Look at options for user info, sign in
     * Show solutions for each
 1. Android Studio Project Walkthrough
 
 #### PROJECT 8 HOMEWORK
 
-* Read[Android user info & sign in](http://developer.android.com/training/building-userinfo.html) 
-* Test[User Info]() Test[Sign In]()
+* Read [Android user info & sign in](http://developer.android.com/training/building-userinfo.html) 
+* Test [User Info]() 
+* Test [Sign In]()
 
 ### PROJECT 9 TRAINING
 
@@ -323,7 +326,7 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 
 #### PROJECT 10 HOMEWORK
 
-* Read[Google Services](http://developer.android.com/training/best-ux.html) 
+* Read [Google Services](http://developer.android.com/training/best-ux.html) 
 * Test [Google Services]()
 
 ##### PROJECT 10 CUSTOM ANDROID APP
