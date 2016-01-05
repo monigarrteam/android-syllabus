@@ -85,7 +85,7 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 
 #### PROJECT 1 HOMEWORK
 
-* Read: [Building Your First App](http://developer.android.com/training/basics/firstapp/index.html) 
+* Read [Building Your First App](http://developer.android.com/training/basics/firstapp/index.html) 
 * Test [Your First App]()
 * Read [Android Lifecycle](http://developer.android.com/training/basics/activity-lifecycle/index.html) 
 * Test [Lifecycle]()
@@ -110,11 +110,7 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 
 1. Video: code review
 1. Video: Dynamic UI and Android Design
-    * Show solutions for each
 1. Video: Android Studio Project Walkthrough
-    * app permissions
-    * interacting with other apps
-    * saving data with your app
 
 #### PROJECT 2 HOMEWORK
 
@@ -142,9 +138,8 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 ### PROJECT 3 TRAINING
 
 1. Video: Code Review
-1. Video: Android app saving data, interacting with other apps
-    * Show solutions for each
-
+1. Video: saving data, interacting with other apps
+1. Video: android studio project walkthrough
 #### PROJECT 3 HOMEWORK
 
 * Read [Android Saving Data](http://developer.android.com/training/basics/data-storage/index.html) 
@@ -170,10 +165,9 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 
 ### PROJECT 4 TRAINING
 
-1. Code review project 4
-1. Look at options for permissions & content sharing
-    * Show solutions for each
-1. Android Studio Project Walkthrough
+1. Video: Code review project 4
+1. Video: options for permissions & content sharing
+1. Video: Android Studio Project Walkthrough
 
 #### PROJECT 4 HOMEWORK
 
@@ -201,14 +195,13 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 
 ### PROJECT 5 TRAINING
 
-1. Code review project 5
-1. Look at options for multimedia, graphics & animation
-    * Show solutions for each
-1. Android Studio Project Walkthrough
+1. Video: Code review project 5
+1. Video: options for multimedia, graphics & animation
+1. Video: Android Studio Project Walkthrough
 
 #### PROJECT 5 HOMEWORK
 
-* Read[Android Multimedia](http://developer.android.com/training/building-multimedia.html) 
+* Read [Android Multimedia](http://developer.android.com/training/building-multimedia.html) 
 * Test [MultiMeida]()
 * Read [Android Graphics & Animation](http://developer.android.com/training/building-graphics.html) 
 * Test [Graphics & Animation]()
@@ -231,23 +224,21 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 
 ### PROJECT 6 TRAINING
 
-1. Code review project 6
-1. Look at options for connectivity, cloud
-    * Show solutions for each
-1. Android Studio Project Walkthrough
+1. Video: Code review project 6
+1. Video: options for connectivity, cloud
+1. Video: Android Studio Project Walkthrough
 
 #### PROJECT 6 HOMEWORK
 
-* Read[Android Connectivity & Cloud](http://developer.android.com/training/building-connectivity.html) 
-* Test[Connectivity]() 
-* Test[Cloud]()
+* Read [Android Connectivity & Cloud](http://developer.android.com/training/building-connectivity.html) 
+* Test [Connectivity]() 
+* Test [Cloud]()
 
 ### PROJECT 7 TRAINING
 
-1. Code review project 7
-1. Look at options for location, maps
-    * Show solutions for each
-1. Android Studio Project Walkthrough
+1. Video: Code review project 7
+1. Video: options for location, maps
+1. Video: Android Studio Project Walkthrough
 
 #### PROJECT 7 HOMEWORK
 
@@ -273,10 +264,9 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 
 ### PROJECT 8 TRAINING
 
-1. Code review project 8
-1. Look at options for user info, sign in
-    * Show solutions for each
-1. Android Studio Project Walkthrough
+1. Video: Code review project 8
+1. Video: options for user info, sign in
+1. Video: Android Studio Project Walkthrough
 
 #### PROJECT 8 HOMEWORK
 
@@ -286,10 +276,9 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 
 ### PROJECT 9 TRAINING
 
-1. Code review project 9
-1. Look at options for wearables, tv & auto
-    * Show solutions for each
-1. Android Studio Project Walkthrough
+1. Video: Code review project 9
+1. Video: options for wearables, tv & auto
+1. Video: Android Studio Project Walkthrough
 
 #### PROJECT 9 HOMEWORK
 
@@ -316,13 +305,11 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 * Receive Peer Review.
 * Give Peer Review.
 
-
 ### PROJECT 10 TRAINING
 
-1. Code review project 10
-1. Look at options for Google Services
-    * Show solutions for each
-1. Android Studio Project Walkthrough
+1. Video: Code review project 10
+1. Video: options for Google Services
+1. Video: Android Studio Project Walkthrough
 
 #### PROJECT 10 HOMEWORK
 
@@ -347,10 +334,10 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 
 ### PROJECT 11 TRAINING
 
-1. Code review project 11
-1. Look at options for Best Practices User Interfaces
+1. Video: Code review project 11
+1. Video: options for Best Practices User Interfaces
     * Show solutions for each
-1. Android Studio Project Walkthrough
+1. Video: Android Studio Project Walkthrough
 
 #### PROJECT 11 HOMEWORK
 
@@ -375,10 +362,9 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 
 ### PROJECT 12 TRAINING
 
-1. Code review project 12
-1. Look at options for Best Practices Background Jobs
-    * Show solutions for each
-1. Android Studio Project Walkthrough
+1. Video: Code review project 12
+1. Video: options for Best Practices Background Jobs
+1. Video: Android Studio Project Walkthrough
 
 #### PROJECT 12 HOMEWORK
 
@@ -404,15 +390,14 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 
 ### PROJECT 13 TRAINING
 
-1. Code review project 13
-1. Look at options for Best Practices Performance
-    * Show solutions for each
-1. Android Studio Project Walkthrough
+1. Video: Code review project 13
+1. Video: solutions for Best Practices Performance
+1. Video: Android Studio Project Walkthrough
 
 #### PROJECT 13 HOMEWORK
 
 * Read [Performance](http://developer.android.com/training/best-performance.html) 
-* Test[Best Practices Performance]()
+* Test [Best Practices Performance]()
 
 ##### PROJECT 13 CUSTOM ANDROID APP
 
@@ -433,10 +418,9 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 
 ### PROJECT 14 TRAINING
 
-1. Code review project 14
-1. Look at options for Best Practices Security & Privacy
-    * Show solutions for each
-1. Android Studio Project Walkthrough
+1. Video: Code review project 14
+1. Video: options for Best Practices Security & Privacy
+1. Video: Android Studio Project Walkthrough
 
 #### PROJECT 14 HOMEWORK
 
@@ -461,10 +445,9 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 
 ### PROJECT 15 TRAINING
 
-1. Code review project 15
-1. Look at options for Best Practices Testing
-    * Show solutions for each
-1. Android Studio Project Walkthrough
+1. Video: Code review project 15
+1. Video: options for Best Practices Testing
+1. Video: Android Studio Project Walkthrough
 
 #### PROJECT 15 HOMEWORK
 
@@ -489,14 +472,13 @@ Projects are demonstrated with video tutorials. 1 on 1 & group tutoring can be s
 
 ### PROJECT 16 TRAINING
 
-1. Code review project 16
-1. Look at options for Best Practices interaction & engagement
-    * Show solutions for each
-1. Android Studio Project Walkthrough
+1. Video: Code review project 16
+1. Video: options for Best Practices interaction & engagement
+1. Video: Android Studio Project Walkthrough
 
 #### PROJECT 16 HOMEWORK
 
-* Read[Interaction & Engagement](http://developer.android.com/training/best-ux.html) 
+* Read [Interaction & Engagement](http://developer.android.com/training/best-ux.html) 
 * Test [Interactions & Engagement]()
 
 ##### PROJECT 16 CUSTOM ANDROID APP
