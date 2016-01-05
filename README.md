@@ -16,11 +16,7 @@ All of the following is required for you to learn how to develop Android apps wi
 * Read Android Studio Overview http://developer.android.com/tools/studio/index.html
 * Read [Android 1st App](http://developer.android.com/training/basics/firstapp/index.html)
 * Read [Android Different Devices](http://developer.android.com/training/basics/supporting-devices/index.html)
-* Basic computer, mobile device and internet skills: 
-** web browsing, typing, copying, pasting, saving files, 
-** downloading content, sharing content on social networks, 
-** emailing, messaging, watching youtube videos, 
-** communicating with social networks.
+* Basic computer, mobile device and internet skills: web browsing, typing, copying, pasting, saving files, downloading content, sharing content on social networks, emailing, messaging, watching youtube videos, communicating with social networks.
 * Your Own Social Network Profiles Setup and for sharing your MoniGarr.com Android work.
 	* Facebook profile: http://www.FaceBook.com
 	* Twitter profile: http://www.Twitter.com
