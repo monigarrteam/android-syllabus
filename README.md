@@ -22,6 +22,7 @@ Do all of the following for each project. The focus is on building your own onli
 ## PREREQUISITES
 The following is required to learn how to develop Android apps with MoniGarr.com.
 
+* 25 hours or less for each project.
 * Laptop & Android Device with Internet Service.
 * Install Github Desktop: https://desktop.github.com/ 
 * Install Android Studio: http://developer.android.com/sdk/index.html
@@ -38,7 +39,7 @@ The following is required to learn how to develop Android apps with MoniGarr.com
 * Read [Android Different Devices](http://developer.android.com/training/basics/supporting-devices/index.html)
 
 ## ANDROID HOMEWORK / PROJECTS / TOPICS:
-Each project includes video tutorials, reading and homework for a one week sprint. Individual & group tutoring can be scheduled with monigarr@yahoo.com in advance.
+Each project includes video tutorials (5 minutes or less), reading with activities (10 hours or less), online tests and homework (10 hours or less) for a one week sprint. Individual & group tutoring can also be scheduled with monigarr@yahoo.com in advance.
 
 * Intro: Schedules and Your Success Plan
 * Project 1: 1st App, Android Lifecycle
